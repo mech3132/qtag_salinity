@@ -1,0 +1,13 @@
+Permutation test for adonis under reduced model
+Terms added sequentially (first to last)
+Permutation: free
+Number of permutations: 999
+
+adonis2(formula = dist(dm18) ~ Year + Extrmethod, data = mf18)
+            Df SumOfSqs      R2      F Pr(>F)    
+Year         1    22.94 0.04174 7.3634  0.001 ***
+Extrmethod   1    15.76 0.02868 5.0596  0.001 ***
+Residual   164   510.85 0.92958                  
+Total      166   549.55 1.00000                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

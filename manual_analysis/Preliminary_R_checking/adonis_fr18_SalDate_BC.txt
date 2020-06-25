@@ -1,0 +1,16 @@
+
+Call:
+adonis(formula = dm18 ~ SalinityEnviron + juliandate, data = mf18,      by = "margin") 
+
+Permutation: free
+Number of permutations: 999
+
+Terms added sequentially (first to last)
+
+                Df SumsOfSqs MeanSqs F.Model      R2 Pr(>F)    
+SalinityEnviron  1    2.2917 2.29166  5.9773 0.08932  0.001 ***
+juliandate       1    1.5123 1.51230  3.9445 0.05894  0.001 ***
+Residuals       57   21.8535 0.38339         0.85174           
+Total           59   25.6575                 1.00000           
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
