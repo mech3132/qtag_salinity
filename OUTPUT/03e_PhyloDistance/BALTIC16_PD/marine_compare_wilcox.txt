@@ -1,0 +1,7 @@
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  marineOTUPD$freshRestricted[-remove_temp_marine] and marineOTUPD$marineRestricted[-remove_temp_marine]
+W = 1103, p-value = 6.204e-06
+alternative hypothesis: true location shift is not equal to 0
+

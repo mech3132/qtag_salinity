@@ -1,0 +1,12 @@
+
+	Paired t-test
+
+data:  marineOTUPD$freshRestricted[-remove_temp_marine] and marineOTUPD$marineRestricted[-remove_temp_marine]
+t = 4.8609, df = 36, p-value = 2.297e-05
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.08157067 0.19836933
+sample estimates:
+mean of the differences 
+                0.13997 
+

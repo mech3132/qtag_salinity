@@ -1,0 +1,170 @@
+Taxa	Fresh	Brackish	Marine	total
+D_2__Alphaproteobacteria	0.186440677966102	0.538983050847458	0.274576271186441	6683
+D_2__Bacteroidia	0.362244897959184	0.403061224489796	0.23469387755102	5432
+D_2__Actinobacteria	0.80672268907563	0.168067226890756	0.0252100840336134	1645
+D_2__Gammaproteobacteria	0.355932203389831	0.455508474576271	0.188559322033898	12566
+D_2__Nitrososphaeria	0.142857142857143	0.857142857142857	NA	282
+D_2__Campylobacteria	0.111111111111111	0.777777777777778	0.111111111111111	429
+D_2__Verrucomicrobiae	0.75	0.15625	0.09375	930
+D_2__Oxyphotobacteria	0.368421052631579	0.0789473684210526	0.552631578947368	553
+D_2__Acidobacteriia	1	NA	NA	404
+D_2__Acidimicrobiia	0.347826086956522	0.521739130434783	0.130434782608696	411
+D_2__Clostridia	NA	0.333333333333333	0.666666666666667	1230
+D_2__Omnitrophia	1	NA	NA	19
+D_2__Mollicutes	NA	NA	1	58
+D_2__Deltaproteobacteria	0.6	0.3	0.1	1745
+D_2__Rhodothermia	NA	1	NA	22
+D_2__Fusobacteriia	1	NA	NA	64
+D_2__Planctomycetacia	0.222222222222222	0.222222222222222	0.555555555555556	541
+D_2__Armatimonadia	1	NA	NA	17
+D_2__Thermoplasmata	NA	0.4	0.6	150
+D_2__Bacilli	NA	0.5	0.5	832
+D_2__Chloroflexia	1	NA	NA	24
+D_2__uncultured soil bacterium	NA	NA	NA	2
+D_2__Ignavibacteria	NA	1	NA	138
+D_2__Fimbriimonadia	1	NA	NA	29
+D_2__Anaerolineae	NA	1	NA	273
+D_2__Holophagae	0.75	0.25	NA	110
+D_2__vadinHA49	NA	NA	NA	20
+D_2__Subgroup 5	NA	NA	NA	58
+D_2__Subgroup 25	NA	NA	NA	3
+D_2__Nitrospinia	NA	1	NA	37
+D_2__Subgroup 22	NA	NA	NA	31
+D_2__Subgroup 6	0.5	0.5	NA	465
+D_2__SL56 marine group	1	NA	NA	7
+D_2__uncultured organism	NA	NA	NA	1
+D_2__uncultured marine bacterium	NA	0.333333333333333	0.666666666666667	16
+D_2__Sericytochromatia	NA	NA	NA	25
+D_2__Nitrospira	0.5	0.5	NA	66
+D_2__Phycisphaerae	0.666666666666667	NA	0.333333333333333	110
+D_2__Thermodesulfovibrionia	NA	NA	NA	23
+D_2__Thermoleophilia	1	NA	NA	319
+D_2__Gracilibacteria	NA	NA	NA	95
+D_2__Blastocatellia (Subgroup 4)	NA	NA	NA	202
+D_2__Dehalococcoidia	NA	NA	NA	45
+D_2__KD4-96	NA	NA	NA	60
+D_2__Fibrobacteria	NA	1	NA	41
+D_2__Woesearchaeia	NA	NA	NA	66
+D_2__Dadabacteriia	NA	NA	NA	5
+D_2__Methanobacteria	NA	NA	NA	30
+D_2__Melainabacteria	NA	NA	NA	60
+D_2__Latescibacteria	NA	NA	NA	6
+D_2__Thermoanaerobaculia	NA	NA	NA	40
+D_2__Nanohaloarchaeia	NA	NA	NA	4
+D_2__Negativicutes	NA	NA	NA	75
+D_2__Erysipelotrichia	NA	NA	NA	60
+D_2__Parcubacteria	NA	NA	NA	78
+D_2__Lentisphaeria	NA	NA	NA	16
+D_2__Spirochaetia	NA	NA	NA	78
+D_2__Leptospirae	1	NA	NA	19
+D_2__Methanomicrobia	NA	NA	NA	62
+D_2__Deinococci	NA	NA	NA	25
+D_2__BD7-11	NA	NA	NA	12
+D_2__OLB14	NA	NA	NA	5
+D_2__BD2-11 terrestrial group	NA	NA	NA	22
+D_2__CPR2	NA	NA	NA	2
+D_2__Subgroup 17	NA	NA	NA	48
+D_2__Thermotogae	NA	NA	NA	4
+D_2__Babeliae	NA	NA	NA	61
+D_2__c5LKS83	NA	NA	NA	2
+D_2__Kiritimatiellae	NA	NA	NA	55
+D_2__Calditrichia	NA	NA	NA	5
+D_2__P9X2b3D02	NA	NA	NA	7
+D_2__NC10	NA	NA	NA	53
+D_2__uncultured	NA	NA	NA	18
+D_2__uncultured bacterium	NA	NA	1	147
+D_2__Thermococci	NA	NA	NA	5
+D_2__uncultured Verrucomicrobia bacterium	NA	NA	NA	3
+D_2__Hydrogenedentia	NA	NA	NA	11
+D_2__Zetaproteobacteria	NA	NA	NA	11
+D_2__Bathyarchaeia	NA	NA	NA	39
+D_2__Aminicenantia	NA	NA	NA	17
+D_2__4-29-1	NA	NA	NA	14
+D_2__PAUC43f marine benthic group	NA	NA	NA	3
+D_2__uncultured Banisveld landfill bacterium BVC56	NA	NA	NA	1
+D_2__Oligosphaeria	NA	NA	NA	13
+D_2__Elusimicrobia	1	NA	NA	33
+D_2__OM190	NA	1	NA	54
+D_2__Gemmatimonadetes	1	NA	NA	215
+D_2__Subgroup 18	NA	NA	NA	8
+D_2__Cloacimonadia	NA	NA	NA	17
+D_2__Subgroup 11	NA	NA	NA	4
+D_2__MVP-15	NA	NA	NA	10
+D_2__Lineage IIa	NA	NA	NA	21
+D_2__Chitinivibrionia	NA	NA	NA	5
+D_2__Pla4 lineage	NA	NA	NA	13
+D_2__JG30-KF-CM66	NA	NA	NA	19
+D_2__Coriobacteriia	NA	NA	NA	52
+D_2__WCHB1-81	NA	NA	NA	4
+D_2__Synergistia	NA	NA	NA	25
+D_2__Acetothermiia	NA	NA	NA	5
+D_2__Subgroup 20	NA	NA	NA	1
+D_2__Saccharimonadia	1	NA	NA	53
+D_2__Altiarchaeia	NA	NA	NA	2
+D_2__Subgroup 21	NA	NA	NA	6
+D_2__ABY1	NA	NA	NA	35
+D_2__Chlamydiae	NA	NA	NA	23
+D_2__Caldisericia	NA	NA	NA	4
+D_2__OC31	NA	NA	NA	1
+D_2__BRH-c20a	NA	NA	NA	1
+D_2__RBG-16-55-12	NA	NA	NA	2
+D_2__V2072-189E03	NA	NA	NA	2
+D_2__uncultured Latescibacteria bacterium	NA	NA	NA	5
+D_2__Microgenomatia	NA	NA	NA	22
+D_2__Caldatribacteriia	NA	NA	NA	8
+D_2__metagenome	NA	NA	NA	16
+D_2__Subgroup 9	NA	NA	NA	4
+D_2__Brocadiae	NA	NA	NA	4
+D_2__uncultured Acidobacterium sp.	NA	NA	NA	1
+D_2__Gitt-GS-136	NA	NA	NA	8
+D_2__Lineage IIb	NA	NA	NA	11
+D_2__Entotheonellia	NA	NA	NA	9
+D_2__JS1	NA	NA	NA	5
+D_2__bacterium PM5-3	NA	NA	NA	1
+D_2__Thermoprotei	NA	NA	NA	1
+D_2__Lokiarchaeia	NA	NA	NA	2
+D_2__Subgroup 15	NA	NA	NA	7
+D_2__Magnetococcia	NA	NA	NA	2
+D_2__Deferribacteres	NA	NA	NA	3
+D_2__MB-A2-108	NA	NA	NA	33
+D_2__TK10	NA	NA	NA	17
+D_2__AD3	NA	NA	NA	8
+D_2__uncultured Omnitrophica bacterium	NA	NA	NA	1
+D_2__Rubrobacteria	NA	NA	NA	14
+D_2__P2-11E	NA	NA	NA	4
+D_2__Endomicrobia	NA	NA	NA	5
+D_2__Longimicrobia	NA	NA	NA	13
+D_2__Ktedonobacteria	NA	NA	NA	6
+D_2__WWE3	NA	NA	NA	3
+D_2__S0134 terrestrial group	NA	NA	NA	11
+D_2__Chlorobia	NA	NA	NA	2
+D_2__Chthonomonadetes	NA	NA	NA	3
+D_2__Coprothermobacteria	NA	NA	NA	6
+D_2__Kazania	NA	NA	NA	1
+D_2__Halanaerobiia	NA	NA	NA	2
+D_2__Pla3 lineage	NA	NA	NA	3
+D_2__uncultured eubacterium OCS307	NA	NA	NA	1
+D_2__uncultured planctomycete	NA	NA	NA	3
+D_2__Lineage IIc	NA	NA	NA	1
+D_2__uncultured prokaryote	NA	NA	NA	3
+D_2__Micrarchaeia	NA	NA	NA	5
+D_2__Limnochordia	NA	NA	NA	4
+D_2__SHA-26	NA	NA	NA	1
+D_2__Group 1.1c	NA	NA	NA	1
+D_2__Nitriliruptoria	NA	NA	NA	1
+D_2__marine metagenome	NA	NA	NA	1
+D_2__0319-7L14	NA	NA	NA	4
+D_2__MD2902-B12	NA	NA	NA	1
+D_2__hydrothermal vent metagenome	NA	NA	NA	1
+D_2__Berkelbacteria	NA	NA	NA	2
+D_2__SGST604	NA	NA	NA	1
+D_2__candidate division Zixibacteria bacterium RBG-1	NA	NA	NA	1
+D_2__uncultured actinobacterium	NA	NA	NA	1
+D_2__Omnitrophica WOR_2 bacterium RIFCSPHIGHO2_01_FULL_49_10	NA	NA	NA	1
+D_2__Marinimicrobia bacterium JGI 0000039-D08	NA	NA	NA	1
+D_2__Candidatus Firestonebacteria bacterium RIFOXYC2_FULL_39_67	NA	NA	NA	1
+D_2__Subgroup 26	NA	NA	NA	1
+D_2__uncultured soil bacterium PRR-10	NA	NA	NA	1
+D_2__Brachyspirae	NA	NA	NA	1
+D_2__uncultured Firmicutes bacterium	NA	NA	NA	1
+D_2__uncultured Fibrobacteres bacterium	NA	NA	NA	1

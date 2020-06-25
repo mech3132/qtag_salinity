@@ -1,0 +1,203 @@
+Taxa	Fresh	Brackish	Marine	total
+D_2__AlphaproteobacteriaD_3__Parvibaculales	NA	NA	1	11
+D_2__GammaproteobacteriaD_3__Betaproteobacteriales	0.285714285714286	0.571428571428571	0.142857142857143	396
+D_2__ThermoplasmataD_3__Marine Group II	NA	NA	NA	27
+D_2__BacteroidiaD_3__Bacteroidetes VC2.1 Bac22	NA	1	NA	8
+D_2__AlphaproteobacteriaD_3__Rhodobacterales	0.0588235294117647	0.647058823529412	0.294117647058824	372
+D_2__OxyphotobacteriaD_3__Synechococcales	0.222222222222222	0.777777777777778	NA	102
+D_2__VerrucomicrobiaeD_3__Verrucomicrobiales	NA	1	NA	77
+D_2__BacteroidiaD_3__Flavobacteriales	0.117647058823529	0.764705882352941	0.117647058823529	636
+D_2__GammaproteobacteriaD_3__Alteromonadales	NA	NA	NA	169
+D_2__VerrucomicrobiaeD_3__uncultured	NA	NA	NA	38
+D_2__BacteroidiaD_3__Cytophagales	0.333333333333333	0.333333333333333	0.333333333333333	51
+D_2__AlphaproteobacteriaD_3__SAR11 clade	0.2	0.466666666666667	0.333333333333333	333
+D_2__AcidimicrobiiaD_3__Microtrichales	0.5	0.4	0.1	113
+D_2__GammaproteobacteriaD_3__Vibrionales	NA	NA	NA	44
+D_2__DeltaproteobacteriaD_3__Desulfobacterales	NA	1	NA	36
+D_2__GammaproteobacteriaD_3__Ga0077536	NA	NA	NA	7
+D_2__AlphaproteobacteriaD_3__Caulobacterales	1	NA	NA	58
+D_2__ActinobacteriaD_3__Frankiales	0.818181818181818	0.181818181818182	NA	121
+D_2__uncultured marine bacteriumD_3__uncultured marine bacterium	NA	1	NA	14
+D_2__VerrucomicrobiaeD_3__Opitutales	NA	1	NA	48
+D_2__uncultured bacteriumD_3__uncultured bacterium	0.5	0.5	NA	70
+D_2__GammaproteobacteriaD_3__SAR86 clade	NA	0.5	0.5	103
+D_2__AlphaproteobacteriaD_3__Thalassobaculales	NA	1	NA	14
+D_2__ActinobacteriaD_3__PeM15	NA	1	NA	25
+D_2__AlphaproteobacteriaD_3__Puniceispirillales	NA	0.8	0.2	56
+D_2__GammaproteobacteriaD_3__KI89A clade	NA	1	NA	10
+D_2__AlphaproteobacteriaD_3__Rhizobiales	NA	NA	NA	71
+D_2__NitrososphaeriaD_3__Nitrosopumilales	NA	NA	NA	21
+D_2__GammaproteobacteriaD_3__Cellvibrionales	NA	0.8	0.2	149
+D_2__BacteroidiaD_3__Chitinophagales	0.75	0.25	NA	62
+D_2__OxyphotobacteriaD_3__Nostocales	NA	1	NA	43
+D_2__AlphaproteobacteriaD_3__Sphingomonadales	NA	NA	1	115
+D_2__AlphaproteobacteriaD_3__Rickettsiales	NA	NA	NA	19
+D_2__GammaproteobacteriaD_3__Pseudomonadales	NA	NA	NA	98
+D_2__DeltaproteobacteriaD_3__SAR324 clade(Marine group B)	NA	1	NA	35
+D_2__DeltaproteobacteriaD_3__Desulfarculales	NA	1	NA	12
+D_2__AlphaproteobacteriaD_3__Rhodovibrionales	NA	NA	NA	8
+D_2__NitrospiniaD_3__Nitrospinales	NA	NA	NA	30
+D_2__AcidobacteriiaD_3__Solibacterales	NA	NA	NA	3
+D_2__PlanctomycetaciaD_3__Pirellulales	NA	0.5	0.5	60
+D_2__GammaproteobacteriaD_3__Oceanospirillales	NA	0.666666666666667	0.333333333333333	107
+D_2__AlphaproteobacteriaD_3__Rhodospirillales	NA	1	NA	94
+D_2__GammaproteobacteriaD_3__Arenicellales	NA	NA	NA	9
+D_2__GammaproteobacteriaD_3__Coxiellales	NA	NA	NA	5
+D_2__GammaproteobacteriaD_3__UBA10353 marine group	NA	NA	NA	8
+D_2__PlanctomycetaciaD_3__Planctomycetales	NA	1	NA	44
+D_2__BacteroidiaD_3__Bacteroidales	NA	1	NA	14
+D_2__AlphaproteobacteriaD_3__Kordiimonadales	NA	1	NA	9
+D_2__GammaproteobacteriaD_3__Gammaproteobacteria Incertae Sedis	NA	NA	NA	10
+D_2__GammaproteobacteriaD_3__Thiotrichales	NA	NA	NA	8
+D_2__GammaproteobacteriaD_3__Ectothiorhodospirales	NA	NA	NA	10
+D_2__GammaproteobacteriaD_3__OM182 clade	NA	NA	NA	14
+D_2__AlphaproteobacteriaD_3__Micropepsales	NA	NA	NA	2
+D_2__ActinobacteriaD_3__Pseudonocardiales	NA	NA	NA	1
+D_2__VerrucomicrobiaeD_3__Chthoniobacterales	0.4	0.6	NA	16
+D_2__GammaproteobacteriaD_3__Steroidobacterales	NA	NA	NA	31
+D_2__BacteroidiaD_3__Sphingobacteriales	NA	1	NA	50
+D_2__GammaproteobacteriaD_3__Methylococcales	NA	1	NA	16
+D_2__ActinobacteriaD_3__Micrococcales	NA	1	NA	59
+D_2__AcidimicrobiiaD_3__Actinomarinales	NA	NA	1	34
+D_2__AlphaproteobacteriaD_3__Acetobacterales	NA	NA	NA	8
+D_2__DeltaproteobacteriaD_3__Bradymonadales	NA	NA	NA	9
+D_2__DeltaproteobacteriaD_3__Bdellovibrionales	NA	NA	NA	27
+D_2__GammaproteobacteriaD_3__PLTA13	NA	NA	NA	3
+D_2__ThermoplasmataD_3__Marine Group III	NA	NA	NA	2
+D_2__CampylobacteriaD_3__Campylobacterales	NA	1	NA	65
+D_2__ThermoanaerobaculiaD_3__Thermoanaerobaculales	NA	NA	NA	6
+D_2__BacilliD_3__Bacillales	NA	NA	NA	5
+D_2__GammaproteobacteriaD_3__Nitrosococcales	NA	NA	NA	12
+D_2__SaccharimonadiaD_3__Saccharimonadales	NA	NA	NA	7
+D_2__NitrospiraD_3__Nitrospirales	NA	NA	NA	4
+D_2__OM190D_3__unidentified planctomycete	NA	NA	NA	1
+D_2__OligosphaeriaD_3__P.palmC41	NA	NA	NA	2
+D_2__LatescibacteriaD_3__Latescibacterales	NA	NA	NA	1
+D_2__DeltaproteobacteriaD_3__Myxococcales	NA	NA	NA	10
+D_2__VerrucomicrobiaeD_3__Pedosphaerales	NA	NA	NA	11
+D_2__GammaproteobacteriaD_3__Xanthomonadales	NA	NA	NA	13
+D_2__ClostridiaD_3__Clostridiales	NA	NA	NA	17
+D_2__PhycisphaeraeD_3__Phycisphaerales	1	NA	NA	28
+D_2__AnaerolineaeD_3__Anaerolineales	NA	NA	NA	12
+D_2__SpirochaetiaD_3__Spirochaetales	NA	NA	NA	5
+D_2__MicrogenomatiaD_3__Candidatus Pacebacteria	NA	NA	NA	2
+D_2__DehalococcoidiaD_3__SAR202 clade	NA	1	NA	15
+D_2__uncultured bacterium MB13C05D_3__uncultured bacterium MB13C05	NA	NA	NA	1
+D_2__ActinobacteriaD_3__Corynebacteriales	NA	1	NA	35
+D_2__GammaproteobacteriaD_3__EPR3968-O8a-Bc78	NA	NA	NA	1
+D_2__GammaproteobacteriaD_3__Pasteurellales	NA	NA	NA	2
+D_2__GammaproteobacteriaD_3__Thiomicrospirales	NA	0.2	0.8	27
+D_2__OM190D_3__uncultured planctomycete	NA	1	NA	3
+D_2__AlphaproteobacteriaD_3__Reyranellales	NA	1	NA	5
+D_2__GracilibacteriaD_3__uncultured Flavobacterium sp.	NA	NA	NA	1
+D_2__DeltaproteobacteriaD_3__NB1-j	NA	NA	NA	5
+D_2__ThermoleophiliaD_3__Gaiellales	NA	NA	NA	9
+D_2__LongimicrobiaD_3__Longimicrobiales	NA	NA	NA	1
+D_2__HydrogenedentiaD_3__Hydrogenedentiales	NA	NA	NA	5
+D_2__GemmatimonadetesD_3__Gemmatimonadales	NA	NA	NA	6
+D_2__LentisphaeriaD_3__Lentisphaerales	NA	NA	NA	2
+D_2__OxyphotobacteriaD_3__Pseudanabaenales	NA	NA	NA	4
+D_2__KiritimatiellaeD_3__WCHB1-41	NA	NA	NA	3
+D_2__DeltaproteobacteriaD_3__Oligoflexales	NA	NA	NA	5
+D_2__DeltaproteobacteriaD_3__PB19	NA	NA	NA	9
+D_2__Subgroup 6D_3__uncultured Acidobacteria bacterium	NA	NA	NA	5
+D_2__uncultured Candidatus Marinimicrobia bacteriumD_3__uncultured Candidatus Marinimicrobia bacterium	NA	NA	NA	1
+D_2__MelainabacteriaD_3__Caenarcaniphilales	NA	NA	NA	3
+D_2__GammaproteobacteriaD_3__Enterobacteriales	NA	NA	NA	11
+D_2__AcidimicrobiiaD_3__IMCC26256	NA	1	NA	4
+D_2__BabeliaeD_3__Babeliales	NA	NA	NA	3
+D_2__Subgroup 6D_3__uncultured actinobacterium	NA	NA	NA	1
+D_2__GammaproteobacteriaD_3__Legionellales	NA	NA	NA	11
+D_2__FibrobacteriaD_3__Fibrobacterales	NA	NA	NA	1
+D_2__GammaproteobacteriaD_3__Francisellales	NA	NA	NA	2
+D_2__Subgroup 6D_3__uncultured bacterium KM3-25-B4	NA	NA	NA	1
+D_2__PlanctomycetaciaD_3__Isosphaerales	NA	NA	NA	1
+D_2__ParcubacteriaD_3__Candidatus Campbellbacteria	NA	NA	NA	2
+D_2__IgnavibacteriaD_3__OPB56	NA	NA	NA	2
+D_2__GammaproteobacteriaD_3__Thiohalorhabdales	NA	NA	NA	12
+D_2__RhodothermiaD_3__Rhodothermales	NA	NA	NA	4
+D_2__RhodothermiaD_3__Balneolales	NA	1	NA	7
+D_2__AlphaproteobacteriaD_3__Paracaedibacterales	NA	NA	NA	11
+D_2__ABY1D_3__Candidatus Komeilibacteria	NA	NA	NA	5
+D_2__FusobacteriiaD_3__Fusobacteriales	NA	NA	NA	3
+D_2__DeltaproteobacteriaD_3__Syntrophobacterales	NA	NA	NA	2
+D_2__BacilliD_3__Lactobacillales	NA	NA	NA	8
+D_2__hydrothermal vent metagenomeD_3__hydrothermal vent metagenome	NA	NA	NA	1
+D_2__MollicutesD_3__Acholeplasmatales	NA	NA	NA	3
+D_2__ABY1D_3__Candidatus Magasanikbacteria	NA	NA	NA	3
+D_2__IgnavibacteriaD_3__Ignavibacteriales	NA	NA	NA	7
+D_2__DadabacteriiaD_3__Dadabacteriales	NA	NA	NA	3
+D_2__GammaproteobacteriaD_3__Diplorickettsiales	NA	NA	NA	2
+D_2__LentisphaeriaD_3__Victivallales	NA	NA	NA	2
+D_2__WoesearchaeiaD_3__uncultured euryarchaeote	NA	NA	NA	1
+D_2__PhycisphaeraeD_3__S-70	NA	NA	NA	1
+D_2__HolophagaeD_3__Holophagales	NA	NA	NA	2
+D_2__ZetaproteobacteriaD_3__Mariprofundales	NA	NA	NA	2
+D_2__ParcubacteriaD_3__Candidatus Kaiserbacteria	NA	NA	NA	4
+D_2__GammaproteobacteriaD_3__CH2b56	NA	NA	NA	4
+D_2__GammaproteobacteriaD_3__Chromatiales	NA	NA	NA	2
+D_2__DeltaproteobacteriaD_3__Desulfuromonadales	NA	NA	NA	7
+D_2__ThermoleophiliaD_3__Solirubrobacterales	NA	NA	NA	3
+D_2__GammaproteobacteriaD_3__BD7-8	NA	NA	NA	3
+D_2__ABY1D_3__Candidatus Kerfeldbacteria	NA	NA	NA	1
+D_2__VerrucomicrobiaeD_3__Arctic97B-4 marine group	NA	NA	NA	7
+D_2__GammaproteobacteriaD_3__Aeromonadales	NA	NA	NA	3
+D_2__GammaproteobacteriaD_3__JTB23	NA	NA	NA	6
+D_2__ABY1D_3__Candidatus Uhrbacteria	NA	NA	NA	7
+D_2__GracilibacteriaD_3__JGI 0000069-P22	NA	NA	NA	3
+D_2__GammaproteobacteriaD_3__Salinisphaerales	NA	NA	NA	2
+D_2__marine metagenomeD_3__marine metagenome	NA	1	NA	11
+D_2__ActinobacteriaD_3__Propionibacteriales	NA	NA	NA	11
+D_2__VerrucomicrobiaeD_3__Methylacidiphilales	1	NA	NA	3
+D_2__AlphaproteobacteriaD_3__Sneathiellales	NA	NA	NA	4
+D_2__AlphaproteobacteriaD_3__Elsterales	NA	NA	NA	2
+D_2__GammaproteobacteriaD_3__Milano-WF1B-44	NA	NA	NA	1
+D_2__GammaproteobacteriaD_3__B2M28	NA	NA	NA	5
+D_2__PlanctomycetaciaD_3__Gemmatales	1	NA	NA	2
+D_2__GammaproteobacteriaD_3__HOC36	NA	NA	NA	3
+D_2__JG30-KF-CM66D_3__uncultured Chloroflexi bacterium	NA	NA	NA	3
+D_2__Subgroup 6D_3__metagenome	NA	NA	NA	6
+D_2__GammaproteobacteriaD_3__Acidiferrobacterales	NA	NA	NA	1
+D_2__GammaproteobacteriaD_3__JG36-TzT-191	NA	NA	NA	2
+D_2__NitriliruptoriaD_3__Nitriliruptorales	NA	NA	NA	1
+D_2__ChloroflexiaD_3__Chloroflexales	NA	NA	NA	2
+D_2__GracilibacteriaD_3__Candidatus Peregrinibacteria	NA	NA	NA	2
+D_2__GracilibacteriaD_3__Absconditabacteriales (SR1)	NA	NA	NA	2
+D_2__AnaerolineaeD_3__SBR1031	NA	NA	NA	1
+D_2__uncultured Acidobacterium sp.D_3__uncultured Acidobacterium sp.	NA	NA	NA	1
+D_2__GammaproteobacteriaD_3__HgCo23	NA	NA	NA	1
+D_2__GammaproteobacteriaD_3__Tenderiales	NA	1	NA	3
+D_2__ParcubacteriaD_3__GWA2-38-13b	NA	NA	NA	1
+D_2__OligosphaeriaD_3__Oligosphaerales	NA	NA	NA	2
+D_2__LeptospiraeD_3__Leptospirales	NA	NA	NA	1
+D_2__AlphaproteobacteriaD_3__Micavibrionales	NA	NA	NA	1
+D_2__NegativicutesD_3__Selenomonadales	NA	NA	NA	1
+D_2__DeltaproteobacteriaD_3__Sva0485	NA	NA	NA	5
+D_2__ABY1D_3__Candidatus Falkowbacteria	NA	NA	NA	1
+D_2__ParcubacteriaD_3__Candidatus Moranbacteria	NA	NA	NA	1
+D_2__MollicutesD_3__Mycoplasmatales	NA	NA	NA	1
+D_2__GracilibacteriaD_3__Candidatus Peribacteria	NA	NA	NA	2
+D_2__AlphaproteobacteriaD_3__Holosporales	NA	NA	NA	4
+D_2__uncultured eubacterium OCS307D_3__uncultured eubacterium OCS307	NA	NA	NA	1
+D_2__AnaerolineaeD_3__Caldilineales	NA	NA	NA	1
+D_2__HolophagaeD_3__Subgroup 7	NA	NA	NA	1
+D_2__Marinimicrobia bacterium JGI 0000113-D11D_3__Marinimicrobia bacterium JGI 0000113-D11	NA	NA	NA	1
+D_2__OM190D_3__uncultured deep-sea bacterium	NA	NA	NA	1
+D_2__CloacimonadiaD_3__Cloacimonadales	NA	NA	NA	1
+D_2__CalditrichiaD_3__Calditrichales	NA	NA	NA	1
+D_2__NitriliruptoriaD_3__Euzebyales	NA	NA	NA	1
+D_2__BD2-11 terrestrial groupD_3__uncultured Gemmatimonadetes bacterium	NA	NA	NA	1
+D_2__OmnitrophiaD_3__Omnitrophales	NA	NA	NA	2
+D_2__uncultured gamma proteobacteriumD_3__uncultured gamma proteobacterium	NA	NA	NA	1
+D_2__AnaerolineaeD_3__Ardenticatenales	NA	NA	NA	1
+D_2__ArmatimonadiaD_3__Armatimonadales	NA	NA	NA	1
+D_2__BD2-11 terrestrial groupD_3__uncultured marine bacterium Ant4D5	NA	NA	NA	1
+D_2__KD4-96D_3__uncultured Anaerolineaceae bacterium	NA	NA	NA	1
+D_2__MelainabacteriaD_3__Vampirovibrionales	NA	NA	NA	1
+D_2__DehalococcoidiaD_3__MSBL5	NA	NA	NA	1
+D_2__DeltaproteobacteriaD_3__MBNT15	NA	NA	NA	2
+D_2__DeltaproteobacteriaD_3__RCP2-54	NA	NA	NA	1
+D_2__GammaproteobacteriaD_3__UBA4486	NA	NA	NA	1
+D_2__ActinobacteriaD_3__Streptomycetales	NA	NA	1	1
+D_2__ParcubacteriaD_3__Candidatus Nomurabacteria	NA	NA	NA	1
+D_2__MelainabacteriaD_3__Obscuribacterales	NA	NA	NA	1

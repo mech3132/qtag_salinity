@@ -1,0 +1,30 @@
+
+Call:
+glm(formula = cbind(minority, ntotal) ~ factoredLevel * Eukaryote, 
+    family = binomial, data = allPEI_fonly_nozeros)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-5.9727  -0.8810   0.2515   0.7686   4.4384  
+
+Coefficients:
+                          Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                -1.5724     0.1657  -9.492  < 2e-16 ***
+factoredLevelD5             0.3008     0.1952   1.541  0.12342    
+factoredLevelD4             0.1810     0.1841   0.983  0.32555    
+factoredLevelD3             0.1308     0.1777   0.736  0.46169    
+Eukaryote                   0.5060     0.3024   1.673  0.09426 .  
+factoredLevelD5:Eukaryote  -0.9353     0.3387  -2.762  0.00575 ** 
+factoredLevelD4:Eukaryote  -0.7906     0.3277  -2.412  0.01584 *  
+factoredLevelD3:Eukaryote  -0.2208     0.3170  -0.697  0.48599    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 359.55  on 126  degrees of freedom
+Residual deviance: 327.10  on 119  degrees of freedom
+AIC: 718.44
+
+Number of Fisher Scoring iterations: 4
+

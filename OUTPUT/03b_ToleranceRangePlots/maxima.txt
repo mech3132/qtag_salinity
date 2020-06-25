@@ -1,0 +1,7 @@
+[1] "16sBaltic"
+[1] "local max, bray"
+[1]  7.775 14.200 30.950
+[1] "local max, gained"
+[1] 17.655
+[1] "local max, lost"
+[1] 16.525

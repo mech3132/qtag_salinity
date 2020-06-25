@@ -1,0 +1,1506 @@
+[1] "========16sBaltic========"
+[1] "range limits:"
+[1]  0.03 31.39
+[1] "median: "
+[1] 9.18
+[1] "========16sFraser========"
+[1] "range limits:"
+[1]  0 33
+[1] "median: "
+[1] 15
+[1] "========18sFraser========"
+[1] "range limits:"
+[1] -3 33
+[1] "median: "
+[1] 10.1
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  B16.ranges and F16.ranges
+W = 174882, p-value < 2.2e-16
+alternative hypothesis: true location shift is not equal to 0
+
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  F18.ranges and F16.ranges
+W = 3053060, p-value < 2.2e-16
+alternative hypothesis: true location shift is not equal to 0
+
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  B16.ranges and F18.ranges
+W = 487094, p-value = 0.00317
+alternative hypothesis: true location shift is not equal to 0
+
+[1] "========16sBaltic========"
+[1] "brackish proportion"
+[1] 0.5268817
+[1] "fresh proportion"
+[1] 0.1541219
+[1] "marine proportion"
+[1] 0.1326165
+[1] "noclass proportion"
+[1] 0.1863799
+[1] "total_reads"
+[1] 279
+[1] "========16sFraser========"
+[1] "brackish proportion"
+[1] 0.3228346
+[1] "fresh proportion"
+[1] 0.3049869
+[1] "marine proportion"
+[1] 0.1653543
+[1] "noclass proportion"
+[1] 0.2068241
+[1] "total_reads"
+[1] 1905
+[1] "========18sFraser========"
+[1] "brackish proportion"
+[1] 0.32206
+[1] "fresh proportion"
+[1] 0.2590315
+[1] "marine proportion"
+[1] 0.104535
+[1] "noclass proportion"
+[1] 0.3143736
+[1] "total_reads"
+[1] 3903
+[1] "---------- BREAKDOWN BY CLASS-----------"
+[1] "========16sBaltic========"
+[1] "Fresh"
+
+     D_2__Acidimicrobiia      D_2__Actinobacteria D_2__Alphaproteobacteria 
+                    0.12                     0.21                     0.12 
+        D_2__Bacteroidia D_2__Gammaproteobacteria    D_2__Oxyphotobacteria 
+                    0.23                     0.09                     0.05 
+      D_2__Phycisphaerae    D_2__Planctomycetacia   D_2__SL56 marine group 
+                    0.07                     0.02                     0.02 
+   D_2__Verrucomicrobiae 
+                    0.07 
+[1] "----"
+
+D_3__Betaproteobacteriales       D_3__Caulobacterales       D_3__Chitinophagales 
+                      0.09                       0.02                       0.07 
+   D_3__Chthoniobacterales          D_3__Cytophagales      D_3__Flavobacteriales 
+                      0.05                       0.02                       0.14 
+           D_3__Frankiales            D_3__Gemmatales   D_3__Methylacidiphilales 
+                      0.21                       0.02                       0.02 
+       D_3__Microtrichales       D_3__Phycisphaerales       D_3__Rhodobacterales 
+                      0.12                       0.07                       0.02 
+          D_3__SAR11 clade       D_3__Synechococcales  D_3__uncultured bacterium 
+                      0.07                       0.05                       0.02 
+[1] "----"
+
+    D_4__Burkholderiaceae     D_4__Chitinophagaceae  D_4__Chthoniobacteraceae 
+                     0.07                      0.02                      0.02 
+           D_4__Clade III    D_4__Crocinitomicaceae       D_4__Cryomorphaceae 
+                     0.07                      0.07                      0.02 
+        D_4__Cyanobiaceae    D_4__Cyclobacteriaceae    D_4__Flavobacteriaceae 
+                     0.05                      0.02                      0.05 
+         D_4__Gemmataceae      D_4__Hyphomonadaceae   D_4__Ilumatobacteraceae 
+                     0.02                      0.02                      0.12 
+D_4__Methylacidiphilaceae     D_4__Methylophilaceae     D_4__Phycisphaeraceae 
+                     0.02                      0.02                      0.07 
+    D_4__Rhodobacteraceae       D_4__Saprospiraceae      D_4__Sporichthyaceae 
+                     0.02                      0.05                      0.21 
+   D_4__Terrimicrobiaceae D_4__uncultured bacterium 
+                     0.02                      0.02 
+[1] "Marine"
+
+     D_2__Acidimicrobiia      D_2__Actinobacteria D_2__Alphaproteobacteria 
+                    0.05                     0.03                     0.35 
+        D_2__Bacteroidia D_2__Gammaproteobacteria    D_2__Planctomycetacia 
+                    0.19                     0.35                     0.03 
+[1] "----"
+
+      D_3__Actinomarinales D_3__Betaproteobacteriales       D_3__Cellvibrionales 
+                      0.03                       0.05                       0.05 
+         D_3__Cytophagales      D_3__Flavobacteriales        D_3__Microtrichales 
+                      0.03                       0.16                       0.03 
+    D_3__Oceanospirillales        D_3__Parvibaculales          D_3__Pirellulales 
+                      0.03                       0.03                       0.03 
+   D_3__Puniceispirillales       D_3__Rhodobacterales           D_3__SAR11 clade 
+                      0.03                       0.14                       0.14 
+          D_3__SAR86 clade      D_3__Sphingomonadales      D_3__Streptomycetales 
+                      0.11                       0.03                       0.03 
+    D_3__Thiomicrospirales 
+                      0.11 
+[1] "----"
+
+                D_4__Actinomarinaceae                          D_4__Clade I 
+                                 0.03                                  0.14 
+               D_4__Crocinitomicaceae                D_4__Cyclobacteriaceae 
+                                 0.03                                  0.03 
+               D_4__Flavobacteriaceae                       D_4__Halieaceae 
+                                 0.14                                  0.03 
+                D_4__Methylophilaceae                  D_4__Microtrichaceae 
+                                 0.03                                  0.03 
+                  D_4__Nitrincolaceae                D_4__Nitrosomonadaceae 
+                                 0.03                                  0.03 
+                    D_4__OCS116 clade                    D_4__Pirellulaceae 
+                                 0.03                                  0.03 
+                  D_4__Porticoccaceae                 D_4__Rhodobacteraceae 
+                                 0.03                                  0.14 
+               D_4__Sphingomonadaceae                D_4__Streptomycetaceae 
+                                 0.03                                  0.03 
+                   D_4__Thioglobaceae                       D_4__uncultured 
+                                 0.11                                  0.03 
+D_4__uncultured gamma proteobacterium      D_4__uncultured marine bacterium 
+                                 0.05                                  0.05 
+[1] "Brackish"
+
+             D_2__Acidimicrobiia              D_2__Actinobacteria 
+                            0.03                             0.08 
+        D_2__Alphaproteobacteria                 D_2__Bacteroidia 
+                            0.18                             0.31 
+            D_2__Campylobacteria             D_2__Dehalococcoidia 
+                            0.02                             0.01 
+        D_2__Deltaproteobacteria         D_2__Gammaproteobacteria 
+                            0.03                             0.18 
+          D_2__marine metagenome                       D_2__OM190 
+                            0.01                             0.01 
+           D_2__Oxyphotobacteria            D_2__Planctomycetacia 
+                            0.05                             0.01 
+               D_2__Rhodothermia        D_2__uncultured bacterium 
+                            0.01                             0.01 
+D_2__uncultured marine bacterium            D_2__Verrucomicrobiae 
+                            0.01                             0.04 
+[1] "----"
+
+               D_3__Bacteroidales    D_3__Bacteroidetes VC2.1 Bac22 
+                             0.01                              0.01 
+                 D_3__Balneolales        D_3__Betaproteobacteriales 
+                             0.01                              0.05 
+           D_3__Campylobacterales              D_3__Cellvibrionales 
+                             0.02                              0.05 
+             D_3__Chitinophagales           D_3__Chthoniobacterales 
+                             0.01                              0.02 
+           D_3__Corynebacteriales                 D_3__Cytophagales 
+                             0.02                              0.01 
+             D_3__Desulfarculales            D_3__Desulfobacterales 
+                             0.01                              0.02 
+            D_3__Flavobacteriales                   D_3__Frankiales 
+                             0.27                              0.01 
+                   D_3__IMCC26256                  D_3__KI89A clade 
+                             0.01                              0.01 
+             D_3__Kordiimonadales            D_3__marine metagenome 
+                             0.01                              0.02 
+             D_3__Methylococcales                D_3__Micrococcales 
+                             0.01                              0.03 
+              D_3__Microtrichales                   D_3__Nostocales 
+                             0.03                              0.01 
+           D_3__Oceanospirillales                   D_3__Opitutales 
+                             0.01                              0.01 
+                       D_3__PeM15                 D_3__Pirellulales 
+                             0.01                              0.01 
+            D_3__Planctomycetales           D_3__Puniceispirillales 
+                             0.01                              0.03 
+               D_3__Reyranellales              D_3__Rhodobacterales 
+                             0.01                              0.07 
+            D_3__Rhodospirillales                  D_3__SAR11 clade 
+                             0.01                              0.05 
+                D_3__SAR202 clade D_3__SAR324 clade(Marine group B) 
+                             0.01                              0.01 
+                 D_3__SAR86 clade           D_3__Sphingobacteriales 
+                             0.03                              0.01 
+             D_3__Synechococcales                  D_3__Tenderiales 
+                             0.05                              0.01 
+           D_3__Thalassobaculales            D_3__Thiomicrospirales 
+                             0.01                              0.01 
+        D_3__uncultured bacterium  D_3__uncultured marine bacterium 
+                             0.01                              0.01 
+    D_3__uncultured planctomycete           D_3__Verrucomicrobiales 
+                             0.01                              0.01 
+[1] "----"
+
+                       D_4__AEGEAN-169 marine group 
+                                               0.01 
+                                  D_4__Balneolaceae 
+                                               0.01 
+                              D_4__Burkholderiaceae 
+                                               0.04 
+                           D_4__Chthoniobacteraceae 
+                                               0.01 
+                                       D_4__Clade I 
+                                               0.01 
+                                      D_4__Clade II 
+                                               0.01 
+                                     D_4__Clade III 
+                                               0.02 
+                                      D_4__Clade IV 
+                                               0.01 
+                             D_4__Crocinitomicaceae 
+                                               0.02 
+                                D_4__Cryomorphaceae 
+                                               0.05 
+                                  D_4__Cyanobiaceae 
+                                               0.05 
+                              D_4__Desulfarculaceae 
+                                               0.01 
+                            D_4__Desulfobacteraceae 
+                                               0.01 
+                              D_4__Desulfobulbaceae 
+                                               0.01 
+                             D_4__Flavobacteriaceae 
+                                               0.16 
+                                    D_4__Halieaceae 
+                                               0.03 
+                            D_4__Ilumatobacteraceae 
+                                               0.02 
+                             D_4__Lentimicrobiaceae 
+                                               0.01 
+                                D_4__Litoricolaceae 
+                                               0.01 
+                              D_4__Magnetospiraceae 
+                                               0.01 
+         D_4__marine gamma proteobacterium HTCC2089 
+                                               0.01 
+                             D_4__marine metagenome 
+                                               0.03 
+                               D_4__Methylomonaceae 
+                                               0.01 
+                              D_4__Methylophilaceae 
+                                               0.01 
+                             D_4__Microbacteriaceae 
+                                               0.03 
+                              D_4__Mycobacteriaceae 
+                                               0.02 
+                                   D_4__Nostocaceae 
+                                               0.01 
+                          D_4__NS11-12 marine group 
+                                               0.01 
+                              D_4__NS9 marine group 
+                                               0.03 
+                                 D_4__Pirellulaceae 
+                                               0.01 
+                                D_4__Porticoccaceae 
+                                               0.01 
+                            D_4__Prolixibacteraceae 
+                                               0.01 
+                           D_4__Pseudohongiellaceae 
+                                               0.01 
+                              D_4__Puniceicoccaceae 
+                                               0.01 
+                                D_4__Reyranellaceae 
+                                               0.01 
+                              D_4__Rhodobacteraceae 
+                                               0.07 
+                             D_4__Rubinisphaeraceae 
+                                               0.01 
+                                D_4__Rubritaleaceae 
+                                               0.01 
+                                D_4__Saprospiraceae 
+                                               0.01 
+                                  D_4__SAR116 clade 
+                                               0.03 
+D_4__SAR86 cluster bacterium BACL1 MAG-120507-bin14 
+                                               0.01 
+                                 D_4__Spirosomaceae 
+                                               0.01 
+                            D_4__Spongiibacteraceae 
+                                               0.01 
+                               D_4__Sporichthyaceae 
+                                               0.01 
+                                  D_4__Tenderiaceae 
+                                               0.01 
+                             D_4__Terrimicrobiaceae 
+                                               0.01 
+                            D_4__Thalassobaculaceae 
+                                               0.01 
+                                 D_4__Thioglobaceae 
+                                               0.01 
+                                  D_4__Thiovulaceae 
+                                               0.02 
+                                    D_4__uncultured 
+                                               0.01 
+                    D_4__uncultured actinobacterium 
+                                               0.01 
+          D_4__uncultured Actinomycetales bacterium 
+                                               0.01 
+                          D_4__uncultured bacterium 
+                                               0.03 
+            D_4__uncultured Bacteroidetes bacterium 
+                                               0.01 
+              D_4__uncultured Chloroflexi bacterium 
+                                               0.01 
+                   D_4__uncultured marine bacterium 
+                                               0.01 
+                      D_4__uncultured planctomycete 
+                                               0.01 
+           D_4__uncultured SAR324 cluster bacterium 
+                                               0.01 
+[1] "========16sFraser========"
+[1] "fresh"
+
+     D_2__Acidimicrobiia      D_2__Acidobacteriia      D_2__Actinobacteria 
+                    0.01                     0.00                     0.17 
+D_2__Alphaproteobacteria       D_2__Armatimonadia         D_2__Bacteroidia 
+                    0.09                     0.01                     0.24 
+    D_2__Campylobacteria        D_2__Chloroflexia D_2__Deltaproteobacteria 
+                    0.00                     0.00                     0.02 
+      D_2__Elusimicrobia      D_2__Fimbriimonadia       D_2__Fusobacteriia 
+                    0.00                     0.00                     0.00 
+D_2__Gammaproteobacteria    D_2__Gemmatimonadetes          D_2__Holophagae 
+                    0.29                     0.00                     0.01 
+        D_2__Leptospirae     D_2__Nitrososphaeria          D_2__Nitrospira 
+                    0.00                     0.00                     0.00 
+        D_2__Omnitrophia    D_2__Oxyphotobacteria       D_2__Phycisphaerae 
+                    0.01                     0.02                     0.01 
+   D_2__Planctomycetacia     D_2__Saccharimonadia   D_2__SL56 marine group 
+                    0.00                     0.00                     0.01 
+         D_2__Subgroup 6     D_2__Thermoleophilia    D_2__Verrucomicrobiae 
+                    0.00                     0.01                     0.08 
+[1] "----"
+
+                           D_3__211ds20                    D_3__Acetobacterales 
+                                   0.00                                    0.00 
+                     D_3__Aeromonadales                    D_3__Armatimonadales 
+                                   0.00                                    0.01 
+                     D_3__Bacteroidales                  D_3__Bdellovibrionales 
+                                   0.01                                    0.01 
+             D_3__Betaproteobacteriales                     D_3__Bradymonadales 
+                                   0.26                                    0.00 
+                 D_3__Campylobacterales                    D_3__Caulobacterales 
+                                   0.00                                    0.02 
+                   D_3__Cellvibrionales                    D_3__Chitinophagales 
+                                   0.00                                    0.06 
+                    D_3__Chloroflexales                 D_3__Chthoniobacterales 
+                                   0.00                                    0.01 
+                 D_3__Corynebacteriales                       D_3__Cytophagales 
+                                   0.02                                    0.02 
+                D_3__Desulfuromonadales                   D_3__Fimbriimonadales 
+                                   0.00                                    0.00 
+                  D_3__Flavobacteriales                         D_3__Frankiales 
+                                   0.09                                    0.10 
+                   D_3__Fusobacteriales                         D_3__Gaiellales 
+                                   0.00                                    0.01 
+                        D_3__Gemmatales                   D_3__Gemmatimonadales 
+                                   0.00                                    0.00 
+                      D_3__Holophagales                          D_3__IMCC26256 
+                                   0.01                                    0.00 
+                     D_3__Isosphaerales                      D_3__Leptospirales 
+                                   0.00                                    0.00 
+                        D_3__Lineage IV                  D_3__marine metagenome 
+                                   0.00                                    0.00 
+               D_3__Methylacidiphilales                    D_3__Methylococcales 
+                                   0.00                                    0.01 
+                     D_3__Micrococcales                     D_3__Microtrichales 
+                                   0.04                                    0.01 
+                      D_3__Myxococcales                   D_3__Nitrosopumilales 
+                                   0.00                                    0.00 
+                     D_3__Nitrospirales                         D_3__Nostocales 
+                                   0.00                                    0.01 
+                 D_3__Oceanospirillales                      D_3__Oligoflexales 
+                                   0.00                                    0.00 
+                     D_3__Omnitrophales                         D_3__Opitutales 
+                                   0.01                                    0.02 
+               D_3__Paracaedibacterales                     D_3__Pedosphaerales 
+                                   0.00                                    0.02 
+                             D_3__PeM15                    D_3__Phycisphaerales 
+                                   0.01                                    0.01 
+                   D_3__Pseudomonadales                        D_3__Rhizobiales 
+                                   0.01                                    0.01 
+                   D_3__Rhodobacterales                      D_3__Rickettsiales 
+                                   0.01                                    0.00 
+                 D_3__Saccharimonadales                        D_3__SAR11 clade 
+                                   0.00                                    0.02 
+                    D_3__Solibacterales                D_3__Solirubrobacterales 
+                                   0.00                                    0.00 
+                D_3__Sphingobacteriales                   D_3__Sphingomonadales 
+                                   0.06                                    0.03 
+                   D_3__Synechococcales                         D_3__uncultured 
+                                   0.02                                    0.01 
+D_3__uncultured Acidobacteria bacterium               D_3__uncultured bacterium 
+                                   0.00                                    0.01 
+                D_3__Verrucomicrobiales                    D_3__Xanthomonadales 
+                                   0.02                                    0.00 
+[1] "----"
+
+                                  D_4__0319-6G20 
+                                            0.00 
+                           D_4__Acetobacteraceae 
+                                            0.00 
+         D_4__Actinobacteria bacterium IMCC26256 
+                                            0.00 
+                             D_4__Aeromonadaceae 
+                                            0.00 
+                                    D_4__AKYH767 
+                                            0.00 
+                           D_4__Armatimonadaceae 
+                                            0.01 
+                         D_4__Bacteriovoracaceae 
+                                            0.00 
+                         D_4__Bdellovibrionaceae 
+                                            0.01 
+                           D_4__Beijerinckiaceae 
+                                            0.00 
+                           D_4__Burkholderiaceae 
+                                            0.19 
+                           D_4__Caulobacteraceae 
+                                            0.01 
+                           D_4__Cellvibrionaceae 
+                                            0.00 
+                           D_4__Chitinophagaceae 
+                                            0.06 
+                         D_4__Chromobacteriaceae 
+                                            0.00 
+                        D_4__Chthoniobacteraceae 
+                                            0.01 
+                                  D_4__Clade III 
+                                            0.02 
+                          D_4__Crocinitomicaceae 
+                                            0.04 
+                             D_4__Cryomorphaceae 
+                                            0.00 
+                               D_4__Cyanobiaceae 
+                                            0.02 
+                          D_4__Cyclobacteriaceae 
+                                            0.00 
+                              D_4__Cytophagaceae 
+                                            0.00 
+                                 D_4__env.OPS 17 
+                                            0.03 
+                          D_4__Fimbriimonadaceae 
+                                            0.00 
+                          D_4__Flavobacteriaceae 
+                                            0.05 
+                           D_4__Fusobacteriaceae 
+                                            0.00 
+                                D_4__Gaiellaceae 
+                                            0.00 
+                            D_4__Gallionellaceae 
+                                            0.00 
+                                D_4__Gemmataceae 
+                                            0.00 
+                          D_4__Gemmatimonadaceae 
+                                            0.00 
+                             D_4__Geobacteraceae 
+                                            0.00 
+                             D_4__Gloeocapsaceae 
+                                            0.00 
+                                 D_4__Halieaceae 
+                                            0.00 
+                              D_4__Holophagaceae 
+                                            0.01 
+                            D_4__Hyphomonadaceae 
+                                            0.00 
+                         D_4__Ilumatobacteraceae 
+                                            0.01 
+                             D_4__Isosphaeraceae 
+                                            0.00 
+                                     D_4__KD3-93 
+                                            0.00 
+                          D_4__Lentimicrobiaceae 
+                                            0.00 
+                             D_4__Leptospiraceae 
+                                            0.00 
+                           D_4__Leptotrichiaceae 
+                                            0.00 
+                                D_4__LiUU-11-161 
+                                            0.00 
+                          D_4__marine metagenome 
+                                            0.00 
+                                 D_4__metagenome 
+                                            0.00 
+                       D_4__Methylacidiphilaceae 
+                                            0.00 
+                            D_4__Methylomonaceae 
+                                            0.01 
+                           D_4__Methylophilaceae 
+                                            0.05 
+                          D_4__Microbacteriaceae 
+                                            0.04 
+                            D_4__Microscillaceae 
+                                            0.00 
+                                    D_4__mle1-27 
+                                            0.00 
+                              D_4__Moraxellaceae 
+                                            0.01 
+                           D_4__Mycobacteriaceae 
+                                            0.02 
+                          D_4__Nitrosomonadaceae 
+                                            0.00 
+                          D_4__Nitrosopumilaceae 
+                                            0.00 
+                             D_4__Nitrospiraceae 
+                                            0.00 
+                                D_4__Nostocaceae 
+                                            0.00 
+                       D_4__NS11-12 marine group 
+                                            0.02 
+                           D_4__NS9 marine group 
+                                            0.01 
+                             D_4__Omnitrophaceae 
+                                            0.01 
+                                D_4__Opitutaceae 
+                                            0.02 
+                          D_4__Paludibacteraceae 
+                                            0.00 
+                       D_4__Paracaedibacteraceae 
+                                            0.00 
+                            D_4__Pedosphaeraceae 
+                                            0.02 
+                              D_4__Phormidiaceae 
+                                            0.00 
+                           D_4__Phycisphaeraceae 
+                                            0.01 
+                         D_4__Prolixibacteraceae 
+                                            0.00 
+                        D_4__Pseudohongiellaceae 
+                                            0.00 
+                           D_4__Pseudomonadaceae 
+                                            0.00 
+                           D_4__Puniceicoccaceae 
+                                            0.00 
+                               D_4__Rhizobiaceae 
+                                            0.00 
+                 D_4__Rhizobiales Incertae Sedis 
+                                            0.00 
+                           D_4__Rhodobacteraceae 
+                                            0.01 
+                             D_4__Rhodocyclaceae 
+                                            0.01 
+                             D_4__Rickettsiaceae 
+                                            0.00 
+                             D_4__Roseiflexaceae 
+                                            0.00 
+                             D_4__Rubritaleaceae 
+                                            0.01 
+                             D_4__Saprospiraceae 
+                                            0.01 
+               D_4__Solibacteraceae (Subgroup 3) 
+                                            0.00 
+                       D_4__Solirubrobacteraceae 
+                                            0.00 
+                        D_4__Sphingobacteriaceae 
+                                            0.00 
+                          D_4__Sphingomonadaceae 
+                                            0.03 
+                              D_4__Spirosomaceae 
+                                            0.01 
+                            D_4__Sporichthyaceae 
+                                            0.10 
+                                   D_4__ST-12K33 
+                                            0.00 
+                               D_4__Thiovulaceae 
+                                            0.00 
+                                    D_4__TRA3-20 
+                                            0.01 
+                                 D_4__uncultured 
+                                            0.01 
+         D_4__uncultured Acidobacteria bacterium 
+                                            0.00 
+                 D_4__uncultured actinobacterium 
+                                            0.00 
+       D_4__uncultured Actinomycetales bacterium 
+                                            0.00 
+                       D_4__uncultured bacterium 
+                                            0.02 
+D_4__uncultured candidate division WS5 bacterium 
+                                            0.00 
+              D_4__uncultured Opitutae bacterium 
+                                            0.01 
+       D_4__uncultured Termite group 1 bacterium 
+                                            0.00 
+       D_4__uncultured Verrucomicrobia bacterium 
+                                            0.00 
+                        D_4__Verrucomicrobiaceae 
+                                            0.02 
+                          D_4__Xanthobacteraceae 
+                                            0.00 
+                           D_4__Xanthomonadaceae 
+                                            0.00 
+[1] "marine"
+
+             D_2__Acidimicrobiia              D_2__Actinobacteria 
+                            0.01                             0.01 
+        D_2__Alphaproteobacteria                     D_2__Bacilli 
+                            0.26                             0.00 
+                D_2__Bacteroidia             D_2__Campylobacteria 
+                            0.29                             0.00 
+                 D_2__Clostridia         D_2__Deltaproteobacteria 
+                            0.01                             0.01 
+        D_2__Gammaproteobacteria                  D_2__Mollicutes 
+                            0.28                             0.00 
+           D_2__Oxyphotobacteria               D_2__Phycisphaerae 
+                            0.07                             0.01 
+           D_2__Planctomycetacia              D_2__Thermoplasmata 
+                            0.02                             0.01 
+       D_2__uncultured bacterium D_2__uncultured marine bacterium 
+                            0.00                             0.01 
+           D_2__Verrucomicrobiae 
+                            0.02 
+[1] "----"
+
+           D_3__Acholeplasmatales              D_3__Actinomarinales 
+                             0.00                              0.00 
+             D_3__Alteromonadales                D_3__Arenicellales 
+                             0.06                              0.00 
+                  D_3__Bacillales                D_3__Bacteroidales 
+                             0.00                              0.00 
+   D_3__Bacteroidetes VC2.1 Bac22        D_3__Betaproteobacteriales 
+                             0.00                              0.05 
+           D_3__Campylobacterales              D_3__Caulobacterales 
+                             0.00                              0.00 
+             D_3__Cellvibrionales              D_3__Chitinophagales 
+                             0.06                              0.01 
+               D_3__Clostridiales                 D_3__Cytophagales 
+                             0.01                              0.01 
+           D_3__Enterobacteriales             D_3__Flavobacteriales 
+                             0.00                              0.26 
+             D_3__Marine Group II                D_3__Micrococcales 
+                             0.01                              0.01 
+              D_3__Microtrichales            D_3__Oceanospirillales 
+                             0.01                              0.07 
+                 D_3__OM182 clade               D_3__Parvibaculales 
+                             0.01                              0.01 
+              D_3__Pedosphaerales                        D_3__PeM15 
+                             0.00                              0.00 
+             D_3__Phycisphaerales                 D_3__Pirellulales 
+                             0.01                              0.01 
+            D_3__Planctomycetales              D_3__Pseudomonadales 
+                             0.01                              0.00 
+          D_3__Puniceispirillales              D_3__Rhodobacterales 
+                             0.04                              0.18 
+            D_3__Salinisphaerales                  D_3__SAR11 clade 
+                             0.00                              0.01 
+D_3__SAR324 clade(Marine group B)                  D_3__SAR86 clade 
+                             0.01                              0.00 
+          D_3__Sphingobacteriales             D_3__Sphingomonadales 
+                             0.00                              0.01 
+             D_3__Synechococcales            D_3__Thiomicrospirales 
+                             0.07                              0.01 
+               D_3__Thiotrichales        D_3__UBA10353 marine group 
+                             0.00                              0.00 
+        D_3__uncultured bacterium  D_3__uncultured marine bacterium 
+                             0.00                              0.01 
+          D_3__Verrucomicrobiales                  D_3__Vibrionales 
+                             0.02                              0.00 
+[1] "----"
+
+                      D_4__Acholeplasmataceae 
+                                         0.00 
+                        D_4__Actinomarinaceae 
+                                         0.00 
+                        D_4__Alcanivoracaceae 
+                                         0.00 
+                        D_4__Alteromonadaceae 
+                                         0.05 
+                         D_4__Arcobacteraceae 
+                                         0.00 
+                          D_4__Arenicellaceae 
+                                         0.00 
+                        D_4__Burkholderiaceae 
+                                         0.01 
+                        D_4__Cellvibrionaceae 
+                                         0.00 
+                                 D_4__Clade I 
+                                         0.01 
+                                D_4__Clade II 
+                                         0.00 
+                           D_4__Colwelliaceae 
+                                         0.01 
+                       D_4__Crocinitomicaceae 
+                                         0.00 
+                          D_4__Cryomorphaceae 
+                                         0.06 
+                            D_4__Cyanobiaceae 
+                                         0.07 
+                       D_4__Cyclobacteriaceae 
+                                         0.01 
+                      D_4__Enterobacteriaceae 
+                                         0.00 
+                              D_4__Family XII 
+                                         0.01 
+                       D_4__Flavobacteriaceae 
+                                         0.17 
+                             D_4__Gimesiaceae 
+                                         0.01 
+                              D_4__Halieaceae 
+                                         0.04 
+                          D_4__Halomonadaceae 
+                                         0.00 
+            D_4__hydrothermal vent metagenome 
+                                         0.00 
+                       D_4__Hymenobacteraceae 
+                                         0.00 
+                         D_4__Hyphomonadaceae 
+                                         0.00 
+                      D_4__Ilumatobacteraceae 
+                                         0.01 
+                          D_4__Litoricolaceae 
+                                         0.02 
+                          D_4__Marinifilaceae 
+                                         0.00 
+                       D_4__Marinobacteraceae 
+                                         0.00 
+                        D_4__Marinomonadaceae 
+                                         0.00 
+                        D_4__Methylophilaceae 
+                                         0.04 
+                       D_4__Microbacteriaceae 
+                                         0.01 
+                           D_4__Moraxellaceae 
+                                         0.00 
+                          D_4__Nitrincolaceae 
+                                         0.01 
+                       D_4__Nitrosomonadaceae 
+                                         0.00 
+                    D_4__NS11-12 marine group 
+                                         0.00 
+                        D_4__NS7 marine group 
+                                         0.01 
+                        D_4__NS9 marine group 
+                                         0.01 
+                            D_4__OCS116 clade 
+                                         0.00 
+                           D_4__Oleiphilaceae 
+                                         0.00 
+                         D_4__Pedosphaeraceae 
+                                         0.00 
+                        D_4__Phycisphaeraceae 
+                                         0.01 
+                           D_4__Pirellulaceae 
+                                         0.01 
+                          D_4__Porticoccaceae 
+                                         0.02 
+                               D_4__PS1 clade 
+                                         0.01 
+                  D_4__Pseudoalteromonadaceae 
+                                         0.00 
+                     D_4__Pseudohongiellaceae 
+                                         0.01 
+                        D_4__Rhodobacteraceae 
+                                         0.18 
+                          D_4__Rubritaleaceae 
+                                         0.02 
+                    D_4__Saccharospirillaceae 
+                                         0.01 
+                          D_4__Saprospiraceae 
+                                         0.01 
+                            D_4__SAR116 clade 
+                                         0.03 
+                          D_4__Solimonadaceae 
+                                         0.00 
+                       D_4__Sphingomonadaceae 
+                                         0.01 
+                      D_4__Spongiibacteraceae 
+                                         0.00 
+                           D_4__Thioglobaceae 
+                                         0.01 
+                          D_4__Thiotrichaceae 
+                                         0.00 
+                              D_4__uncultured 
+                                         0.01 
+    D_4__uncultured Actinomycetales bacterium 
+                                         0.00 
+                     D_4__uncultured archaeon 
+                                         0.00 
+                    D_4__uncultured bacterium 
+                                         0.01 
+      D_4__uncultured Bacteroidetes bacterium 
+                                         0.00 
+        D_4__uncultured gamma proteobacterium 
+                                         0.01 
+              D_4__uncultured marine archaeon 
+                                         0.00 
+             D_4__uncultured marine bacterium 
+                                         0.01 
+D_4__uncultured marine group II euryarchaeote 
+                                         0.00 
+     D_4__uncultured SAR324 cluster bacterium 
+                                         0.00 
+                            D_4__Vibrionaceae 
+                                         0.00 
+[1] "brackish"
+
+             D_2__Acidimicrobiia              D_2__Actinobacteria 
+                            0.02                             0.03 
+        D_2__Alphaproteobacteria                D_2__Anaerolineae 
+                            0.26                             0.00 
+                    D_2__Bacilli                 D_2__Bacteroidia 
+                            0.00                             0.26 
+            D_2__Campylobacteria                  D_2__Clostridia 
+                            0.01                             0.00 
+        D_2__Deltaproteobacteria               D_2__Fibrobacteria 
+                            0.01                             0.00 
+        D_2__Gammaproteobacteria                  D_2__Holophagae 
+                            0.35                             0.00 
+             D_2__Ignavibacteria             D_2__Nitrososphaeria 
+                            0.00                             0.01 
+                D_2__Nitrospinia                  D_2__Nitrospira 
+                            0.00                             0.00 
+                      D_2__OM190            D_2__Oxyphotobacteria 
+                            0.00                             0.00 
+           D_2__Planctomycetacia                D_2__Rhodothermia 
+                            0.00                             0.00 
+                 D_2__Subgroup 6              D_2__Thermoplasmata 
+                            0.00                             0.00 
+D_2__uncultured marine bacterium            D_2__Verrucomicrobiae 
+                            0.00                             0.02 
+[1] "----"
+
+                          D_3__Actinomarinales 
+                                          0.00 
+                          D_3__Alteromonadales 
+                                          0.02 
+                           D_3__Anaerolineales 
+                                          0.00 
+                            D_3__Arenicellales 
+                                          0.00 
+                           D_3__Azospirillales 
+                                          0.00 
+                D_3__Bacteroidetes VC2.1 Bac22 
+                                          0.00 
+                              D_3__Balneolales 
+                                          0.00 
+                        D_3__Bdellovibrionales 
+                                          0.00 
+                    D_3__Betaproteobacteriales 
+                                          0.20 
+                        D_3__Campylobacterales 
+                                          0.01 
+                          D_3__Caulobacterales 
+                                          0.01 
+                          D_3__Cellvibrionales 
+                                          0.03 
+                          D_3__Chitinophagales 
+                                          0.04 
+                       D_3__Chthoniobacterales 
+                                          0.00 
+                            D_3__Clostridiales 
+                                          0.00 
+                             D_3__Cytophagales 
+                                          0.01 
+                       D_3__Desulfuromonadales 
+                                          0.01 
+                        D_3__Enterobacteriales 
+                                          0.00 
+                          D_3__Fibrobacterales 
+                                          0.00 
+                         D_3__Flavobacteriales 
+                                          0.18 
+                           D_3__Francisellales 
+                                          0.00 
+                               D_3__Frankiales 
+                                          0.02 
+       D_3__Gammaproteobacteria Incertae Sedis 
+                                          0.00 
+                                    D_3__HOC36 
+                                          0.00 
+                             D_3__Holophagales 
+                                          0.00 
+                              D_3__KI89A clade 
+                                          0.00 
+                          D_3__Kordiimonadales 
+                                          0.00 
+                          D_3__Lactobacillales 
+                                          0.00 
+                          D_3__Marine Group II 
+                                          0.00 
+                               D_3__metagenome 
+                                          0.00 
+                          D_3__Methylococcales 
+                                          0.00 
+                            D_3__Micrococcales 
+                                          0.01 
+                            D_3__Micropepsales 
+                                          0.00 
+                           D_3__Microtrichales 
+                                          0.02 
+                          D_3__Nitrosococcales 
+                                          0.00 
+                         D_3__Nitrosopumilales 
+                                          0.01 
+                            D_3__Nitrospinales 
+                                          0.00 
+                            D_3__Nitrospirales 
+                                          0.00 
+                        D_3__Oceanospirillales 
+                                          0.03 
+                            D_3__Oligoflexales 
+                                          0.00 
+                              D_3__OM182 clade 
+                                          0.00 
+                                    D_3__OPB56 
+                                          0.00 
+                               D_3__Opitutales 
+                                          0.00 
+                           D_3__Parvibaculales 
+                                          0.00 
+                                    D_3__PeM15 
+                                          0.00 
+                             D_3__Pirellulales 
+                                          0.00 
+                         D_3__Pseudanabaenales 
+                                          0.00 
+                          D_3__Pseudomonadales 
+                                          0.01 
+                       D_3__Puniceispirillales 
+                                          0.02 
+                              D_3__Rhizobiales 
+                                          0.01 
+                          D_3__Rhodobacterales 
+                                          0.13 
+                         D_3__Rhodospirillales 
+                                          0.01 
+                            D_3__Rickettsiales 
+                                          0.00 
+                              D_3__SAR11 clade 
+                                          0.06 
+                              D_3__SAR86 clade 
+                                          0.01 
+                       D_3__Sphingobacteriales 
+                                          0.03 
+                         D_3__Sphingomonadales 
+                                          0.01 
+                       D_3__Steroidobacterales 
+                                          0.00 
+                          D_3__Synechococcales 
+                                          0.00 
+                        D_3__Thiohalorhabdales 
+                                          0.00 
+                        D_3__Thiomicrospirales 
+                                          0.00 
+                            D_3__Thiotrichales 
+                                          0.00 
+                               D_3__uncultured 
+                                          0.00 
+                     D_3__uncultured bacterium 
+                                          0.00 
+D_3__uncultured Crater Lake bacterium CL500-15 
+                                          0.00 
+              D_3__uncultured marine bacterium 
+                                          0.00 
+               D_3__unidentified planctomycete 
+                                          0.00 
+                       D_3__Verrucomicrobiales 
+                                          0.01 
+                              D_3__Vibrionales 
+                                          0.01 
+[1] "----"
+
+                                          D_4__AB1 
+                                              0.00 
+                             D_4__Actinomarinaceae 
+                                              0.00 
+                      D_4__AEGEAN-169 marine group 
+                                              0.00 
+                              D_4__Anaerolineaceae 
+                                              0.00 
+                              D_4__Arcobacteraceae 
+                                              0.01 
+                               D_4__Arenicellaceae 
+                                              0.00 
+                              D_4__Azospirillaceae 
+                                              0.00 
+                                       D_4__B1-7BS 
+                                              0.00 
+                           D_4__Bacteriovoracaceae 
+                                              0.00 
+D_4__bacterium enrichment culture clone AOM-SR-B35 
+                                              0.00 
+                                 D_4__Balneolaceae 
+                                              0.00 
+                             D_4__Beijerinckiaceae 
+                                              0.00 
+                             D_4__Burkholderiaceae 
+                                              0.16 
+                            D_4__Carnobacteriaceae 
+                                              0.00 
+                             D_4__Caulobacteraceae 
+                                              0.00 
+                             D_4__Cellvibrionaceae 
+                                              0.01 
+                           D_4__Chitinibacteraceae 
+                                              0.00 
+                             D_4__Chitinophagaceae 
+                                              0.03 
+                          D_4__Chthoniobacteraceae 
+                                              0.00 
+                                      D_4__Clade I 
+                                              0.05 
+                                     D_4__Clade II 
+                                              0.00 
+                                    D_4__Clade III 
+                                              0.00 
+                                     D_4__Clade IV 
+                                              0.00 
+                             D_4__Clostridiaceae 1 
+                                              0.00 
+                                D_4__Colwelliaceae 
+                                              0.01 
+                            D_4__Crocinitomicaceae 
+                                              0.02 
+                               D_4__Cryomorphaceae 
+                                              0.03 
+                                 D_4__Cyanobiaceae 
+                                              0.00 
+                            D_4__Cyclobacteriaceae 
+                                              0.00 
+                          D_4__Desulfuromonadaceae 
+                                              0.00 
+                           D_4__Enterobacteriaceae 
+                                              0.00 
+                                   D_4__env.OPS 17 
+                                              0.00 
+                             D_4__Fibrobacteraceae 
+                                              0.00 
+                            D_4__Flavobacteriaceae 
+                                              0.12 
+                              D_4__Francisellaceae 
+                                              0.00 
+                               D_4__Geobacteraceae 
+                                              0.00 
+                                   D_4__Halieaceae 
+                                              0.01 
+                                D_4__Holophagaceae 
+                                              0.00 
+                           D_4__Hydrogenophilaceae 
+                                              0.00 
+                            D_4__Hyphomicrobiaceae 
+                                              0.00 
+                              D_4__Hyphomonadaceae 
+                                              0.00 
+                           D_4__Ilumatobacteraceae 
+                                              0.02 
+                               D_4__Litoricolaceae 
+                                              0.00 
+                             D_4__Magnetospiraceae 
+                                              0.00 
+        D_4__marine gamma proteobacterium HTCC2089 
+                                              0.00 
+                            D_4__marine metagenome 
+                                              0.00 
+                             D_4__Marinomonadaceae 
+                                              0.00 
+                                   D_4__metagenome 
+                                              0.00 
+                              D_4__Methylomonaceae 
+                                              0.00 
+                             D_4__Methylophagaceae 
+                                              0.00 
+                             D_4__Methylophilaceae 
+                                              0.03 
+                            D_4__Microbacteriaceae 
+                                              0.01 
+                               D_4__Micropepsaceae 
+                                              0.00 
+                                D_4__Moraxellaceae 
+                                              0.00 
+                               D_4__Nitrincolaceae 
+                                              0.00 
+                            D_4__Nitrosomonadaceae 
+                                              0.00 
+                            D_4__Nitrosopumilaceae 
+                                              0.01 
+                               D_4__Nitrospinaceae 
+                                              0.00 
+                               D_4__Nitrospiraceae 
+                                              0.00 
+                         D_4__NS11-12 marine group 
+                                              0.01 
+                             D_4__NS7 marine group 
+                                              0.00 
+                             D_4__NS9 marine group 
+                                              0.01 
+                                D_4__Oleiphilaceae 
+                                              0.00 
+                               D_4__Oligoflexaceae 
+                                              0.00 
+                                D_4__Pirellulaceae 
+                                              0.00 
+                               D_4__Porticoccaceae 
+                                              0.01 
+                                    D_4__PS1 clade 
+                                              0.00 
+                            D_4__Pseudanabaenaceae 
+                                              0.00 
+                       D_4__Pseudoalteromonadaceae 
+                                              0.01 
+                          D_4__Pseudohongiellaceae 
+                                              0.01 
+                             D_4__Pseudomonadaceae 
+                                              0.00 
+                            D_4__Psychromonadaceae 
+                                              0.00 
+                             D_4__Puniceicoccaceae 
+                                              0.00 
+                             D_4__Rhodobacteraceae 
+                                              0.13 
+                               D_4__Rhodocyclaceae 
+                                              0.00 
+                            D_4__Rhodospirillaceae 
+                                              0.00 
+                               D_4__Rickettsiaceae 
+                                              0.00 
+                               D_4__Rubritaleaceae 
+                                              0.00 
+                         D_4__Saccharospirillaceae 
+                                              0.00 
+                               D_4__Saprospiraceae 
+                                              0.00 
+                                 D_4__SAR116 clade 
+                                              0.02 
+                               D_4__Shewanellaceae 
+                                              0.01 
+                          D_4__Sphingobacteriaceae 
+                                              0.01 
+                            D_4__Sphingomonadaceae 
+                                              0.01 
+                                D_4__Spirosomaceae 
+                                              0.01 
+                           D_4__Spongiibacteraceae 
+                                              0.00 
+                              D_4__Sporichthyaceae 
+                                              0.02 
+                                  D_4__SS1-B-06-26 
+                                              0.00 
+                                      D_4__Sva1033 
+                                              0.00 
+                            D_4__Terrimicrobiaceae 
+                                              0.00 
+                                D_4__Thioglobaceae 
+                                              0.00 
+                           D_4__Thiohalorhabdaceae 
+                                              0.00 
+                               D_4__Thiotrichaceae 
+                                              0.00 
+                                      D_4__TRA3-20 
+                                              0.00 
+                                   D_4__uncultured 
+                                              0.01 
+                          D_4__uncultured archaeon 
+                                              0.00 
+                         D_4__uncultured bacterium 
+                                              0.02 
+    D_4__uncultured Crater Lake bacterium CL500-15 
+                                              0.00 
+             D_4__uncultured gamma proteobacterium 
+                                              0.00 
+                   D_4__uncultured marine archaeon 
+                                              0.00 
+                  D_4__uncultured marine bacterium 
+                                              0.00 
+                   D_4__unidentified planctomycete 
+                                              0.00 
+                               D_4__Unknown Family 
+                                              0.00 
+                          D_4__Verrucomicrobiaceae 
+                                              0.00 
+                                 D_4__Vibrionaceae 
+                                              0.01 
+                                  D_4__Woeseiaceae 
+                                              0.00 
+                            D_4__Xanthobacteraceae 
+                                              0.00 
+[1] "========18sFraser========"
+[1] "fresh"
+
+   __Acanthocystidae        __Apicomplexa            __BOLA914           __Cercozoa 
+                0.00                 0.01                 0.00                 0.08 
+    __Chloroplastida   __Choanoflagellida         __Ciliophora    __Cryptomonadales 
+                0.08                 0.04                 0.17                 0.06 
+       __DH147-EKD10     __Dinoflagellata              __Fungi              __H15-6 
+                0.00                 0.13                 0.06                 0.00 
+    __Incertae_Sedis   __Kathablepharidae             __MAST-2             __MAST-3 
+                0.00                 0.01                 0.00                 0.00 
+           __Metazoa         __Ochrophyta              __P1-31 __Peronosporomycetes 
+                0.08                 0.18                 0.02                 0.00 
+     __Protalveolata         __uncultured 
+                0.07                 0.00 
+[1] "----"
+
+      __Acanthoecida     __Actinopterygii           __Annelida         __Arthropoda 
+                0.00                 0.01                 0.00                 0.01 
+        __Ascomycota        __Bolidomonas        __Chlorophyta       __Choanocystis 
+                0.01                 0.00                 0.06                 0.00 
+     __Chrysophyceae    __Chytridiomycota            __Clade_L           __Cnidaria 
+                0.13                 0.04                 0.02                 0.00 
+      __Colpodellida        __Conoidasida          __Conthreep         __Craspedida 
+                0.01                 0.01                 0.06                 0.02 
+       __Cryptomonas       __Cryptomycota           __Diatomea        __Dinophyceae 
+                0.04                 0.00                 0.05                 0.12 
+ __Eustigmatophyceae       __Gastrotricha     __Glissomonadida         __Imbricatea 
+                0.00                 0.00                 0.00                 0.01 
+    __Incertae_Sedis              __Komma       __Litostomatea           __Mammalia 
+                0.00                 0.00                 0.02                 0.00 
+           __MAST-3F           __Mollusca     __Mucoromycotina         __Nasturtium 
+                0.00                 0.00                 0.00                 0.00 
+    __Novel_Clade_10      __Novel_Clade_2        __Perkinsidae __Phragmoplastophyta 
+                0.02                 0.03                 0.06                 0.02 
+      __Plagioselmis           __Porifera         __Rhodomonas           __Rotifera 
+                0.01                 0.00                 0.00                 0.04 
+      __Spirotrichea          __Teleaulax       __Thecofilosea           __Tunicata 
+                0.09                 0.01                 0.01                 0.00 
+        __uncultured      __Vampyrellidae 
+                0.05                 0.00 
+[1] "----"
+
+                __A31       __Acanthoecidae      __Actinopterygii         __Amb-18S-431 
+                 0.06                  0.00                  0.01                  0.00 
+     __Appendicularia                  __B7   __Bacillariophytina          __Bdelloidea 
+                 0.00                  0.00                  0.04                  0.00 
+           __Bivalvia         __Bolidomonas               __CCI40        __Chaetonotida 
+                 0.00                  0.00                  0.00                  0.00 
+      __Chlorophyceae        __Choanocystis       __Choreotrichia       __Chromulinales 
+                 0.04                  0.00                  0.01                  0.01 
+     __Chrysocapsales    __Chytridiomycetes          __Clitellata          __Colpodella 
+                 0.00                  0.02                  0.00                  0.01 
+__Coscinodiscophytina         __Cryptomonas        __Demospongiae         __Desmidiales 
+                 0.01                  0.04                  0.00                  0.02 
+  __Dolichomastigales     __Dothideomycetes       __Eustigmatales       __Gregarinasina 
+                 0.00                  0.01                  0.00                  0.01 
+  __Gymnodiniphycidae            __Haptoria          __Heteromita            __Hydrozoa 
+                 0.09                  0.02                  0.00                  0.00 
+        __Hypotrichia      __Incertae_Sedis               __Komma       __Leotiomycetes 
+                 0.02                  0.00                  0.00                  0.00 
+            __LG07-07     __Mamiellophyceae            __Mammalia         __Maxillopoda 
+                 0.02                  0.00                  0.00                  0.01 
+        __Monogononta      __Mucoromycotina          __Nasturtium      __Ochromonadales 
+                 0.04                  0.00                  0.00                  0.04 
+  __Oligohymenophorea        __Oligotrichia              __P34.45              __P34.48 
+                 0.03                  0.01                  0.00                  0.01 
+   __Peridiniphycidae     __Phyllopharyngea        __Plagioselmis         __Prostomatea 
+                 0.02                  0.00                  0.01                  0.02 
+         __Rhodomonas      __Salpingoecidae            __SL163A10     __Sordariomycetes 
+                 0.00                  0.02                  0.00                  0.00 
+     __Spongomonadida      __Stephanoecidae           __Synurales           __Teleaulax 
+                 0.01                  0.00                  0.01                  0.01 
+          __TKR07M.92    __Trebouxiophyceae          __uncultured         __WHOI-LI1-14 
+                 0.01                  0.01                  0.20                  0.00 
+[1] "marine"
+
+        __Cercozoa   __Chloroplastida __Choanoflagellida       __Ciliophora 
+              0.09               0.09               0.00               0.06 
+ __Cryptomonadales   __Dinoflagellata            __Fungi    __Ichthyosporea 
+              0.05               0.17               0.00               0.01 
+  __Incertae_Sedis           __MAST-1           __MAST-2          __Metazoa 
+              0.00               0.01               0.00               0.11 
+      __Ochrophyta             __Pav3     __Picomonadida    __Protalveolata 
+              0.07               0.00               0.04               0.08 
+__Prymnesiophyceae     __Rhodophyceae       __uncultured 
+              0.16               0.00               0.02 
+[1] "----"
+
+      __Acanthoecida           __Annelida         __Arthropoda        __Chlorophyta 
+                0.00                 0.02                 0.05                 0.08 
+          __Cnidaria      __Coccolithales          __Conthreep           __Diatomea 
+                0.02                 0.01                 0.00                 0.06 
+       __Dinophyceae   __Florideophycidae           __FV18-2G7         __Geminigera 
+                0.16                 0.00                 0.01                 0.00 
+        __Hemiselmis      __Ichthyosporea         __Imbricatea     __Incertae_Sedis 
+                0.01                 0.01                 0.01                 0.01 
+      __Litostomatea            __MAST-1C      __Microsporidia             __MOCH-2 
+                0.02                 0.01                 0.00                 0.00 
+          __Mollusca      __Novel_Clade_2        __Phaeocystis __Phragmoplastophyta 
+                0.01                 0.01                 0.06                 0.01 
+        __Phytomyxea      __Picomonadidae    __Platyhelminthes       __Prymnesiales 
+                0.00                 0.02                 0.00                 0.09 
+          __Rotifera       __Spirotrichea        __Syndiniales          __Teleaulax 
+                0.00                 0.03                 0.08                 0.01 
+      __Thecofilosea         __uncultured 
+                0.07                 0.04 
+[1] "----"
+
+         __AI5F14RJ2A07           __Amoebophrya     __Bacillariophytina 
+                   0.00                    0.02                    0.03 
+             __Bivalvia   __Chlorodendrophyceae         __Choreotrichia 
+                   0.00                    0.02                    0.02 
+     __Chrysochromulina   __Coscinodiscophytina          __Cryomonadida 
+                   0.05                    0.03                    0.02 
+             __Ebriacea           __Embryophyta              __FV18-2G7 
+                   0.03                    0.01                    0.01 
+           __Gastropoda            __Geminigera     __Gymnodiniphycidae 
+                   0.00                    0.00                    0.12 
+            __Haptolina            __Hemiselmis              __Hydrozoa 
+                   0.00                    0.01                    0.02 
+        __Ichthyophonae        __Incertae_Sedis       __Mamiellophyceae 
+                   0.01                    0.02                    0.01 
+            __Maullinia           __Maxillopoda          __Mesodiniidae 
+                   0.00                    0.05                    0.02 
+          __Monogononta         __Novel_Clade_3                 __NW617 
+                   0.00                    0.00                    0.01 
+             __OLI16029              __OLI51059      __Peridiniphycidae 
+                   0.00                    0.00                    0.00 
+          __Phaeocystis             __Picomonas            __Polychaeta 
+                   0.06                    0.02                    0.02 
+        __Prasinophytae        __Prorocentrales           __Prostomatea 
+                   0.02                    0.00                    0.00 
+           __Prymnesium    __Rhodymeniophycidae              __SCM37C58 
+                   0.00                    0.00                    0.00 
+        __Silicofilosea              __SL163A10        __Stephanoecidae 
+                   0.01                    0.01                    0.00 
+  __Syndiniales_Group_I  __Syndiniales_Group_II __Syndiniales_Group_III 
+                   0.04                    0.02                    0.00 
+            __Teleaulax      __Trebouxiophyceae             __Trematoda 
+                   0.01                    0.02                    0.00 
+          __Ulvophyceae            __uncultured           __WHOI-LI1-14 
+                   0.00                    0.09                    0.00 
+[1] "brackish"
+
+           __BOLA914           __Cercozoa     __Chloroplastida   __Choanoflagellida 
+                0.00                 0.07                 0.07                 0.02 
+        __Ciliophora    __Cryptomonadales     __Dinoflagellata         __Filasterea 
+                0.12                 0.06                 0.08                 0.00 
+             __Fungi     __Incertae_Sedis           __Jakobida   __Kathablepharidae 
+                0.07                 0.01                 0.00                 0.02 
+            __MAST-1             __MAST-2             __MAST-3             __MAST-6 
+                0.00                 0.00                 0.00                 0.00 
+           __Metazoa         __Ochrophyta           __OLI11255              __P1-31 
+                0.09                 0.25                 0.00                 0.01 
+__Peronosporomycetes       __Picomonadida      __Protalveolata   __Prymnesiophyceae 
+                0.00                 0.00                 0.10                 0.01 
+        __uncultured 
+                0.00 
+[1] "----"
+
+      __Acanthoecida     __Actinopterygii           __Annelida        __Aphanomyces 
+                0.01                 0.03                 0.01                 0.00 
+        __Arthropoda         __Ascomycota        __Bolidomonas        __Brachiopoda 
+                0.01                 0.01                 0.02                 0.00 
+             __CCW10     __Cercomonadidae        __Chlorophyta         __Chroomonas 
+                0.00                 0.00                 0.06                 0.00 
+     __Chrysophyceae    __Chytridiomycota            __Clade_L     __Clathrulinidae 
+                0.10                 0.03                 0.01                 0.00 
+          __Cnidaria       __Colpodellida          __Conthreep         __Craspedida 
+                0.00                 0.00                 0.05                 0.00 
+       __Cryptomonas       __Cryptomycota           __Diatomea        __Dinophyceae 
+                0.01                 0.03                 0.12                 0.08 
+ __Eustigmatophyceae         __Filasterea       __Gastrotricha     __Glissomonadida 
+                0.00                 0.00                 0.00                 0.01 
+        __Hemiselmis      __Heterotrichea         __Imbricatea     __Incertae_Sedis 
+                0.00                 0.00                 0.01                 0.01 
+    __Isochrysidales      __Katablepharis       __Litostomatea            __MAST-1C 
+                0.00                 0.01                 0.02                 0.00 
+           __MAST-3F           __Mollusca       __Noctilucales     __Novel_Clade_10 
+                0.00                 0.02                 0.00                 0.01 
+     __Novel_Clade_2        __Perkinsidae __Phragmoplastophyta         __Phytomyxea 
+                0.01                 0.07                 0.01                 0.00 
+     __Picomonadidae       __Plagioselmis       __Prymnesiales     __Raphidophyceae 
+                0.00                 0.00                 0.00                 0.01 
+        __Rhodomonas           __Rotifera       __Spirotrichea        __Syndiniales 
+                0.00                 0.00                 0.06                 0.02 
+         __Teleaulax       __Thecofilosea           __Tunicata        __Typhlocoela 
+                0.02                 0.03                 0.01                 0.00 
+        __uncultured      __Vampyrellidae 
+                0.04                 0.00 
+[1] "----"
+
+                 __A31       __Actinopterygii          __Amoebophrya 
+                  0.07                   0.03                   0.01 
+         __Aphanomyces       __Appendicularia    __Bacillariophytina 
+                  0.00                   0.01                   0.11 
+              __BAQK03             __Bivalvia          __Bolidomonas 
+                  0.00                   0.02                   0.02 
+               __CCI40                __CCW10           __Cercomonas 
+                  0.00                   0.00                   0.00 
+        __Chaetonotida       __Chattonellales  __Chlorodendrophyceae 
+                  0.00                   0.01                   0.00 
+       __Chlorophyceae        __Choreotrichia        __Chromulinales 
+                  0.02                   0.02                   0.02 
+          __Chroomonas       __Chrysocapsales     __Chrysochromulina 
+                  0.00                   0.00                   0.00 
+    __Chytridiomycetes          __Codosigidae           __Colpodella 
+                  0.01                   0.00                   0.00 
+ __Coscinodiscophytina         __Cryomonadida          __Cryptomonas 
+                  0.01                   0.01                   0.01 
+     __Dothideomycetes                 __E222             __Ebriacea 
+                  0.00                   0.02                   0.00 
+         __Embryophyta              __ESS2202       __Eurotiomycetes 
+                  0.01                   0.00                   0.00 
+       __Eustigmatales    __Gymnodiniphycidae             __Haptoria 
+                  0.00                   0.05                   0.01 
+        __Hedriocystis           __Hemiselmis           __Heteromita 
+                  0.00                   0.00                   0.01 
+            __Hydrozoa       __Incertae_Sedis        __Katablepharis 
+                  0.00                   0.02                   0.01 
+       __Leotiomycetes           __Leptophrys              __LG01-09 
+                  0.00                   0.00                   0.00 
+             __LG07-07              __LG21-05       __Lichinomycetes 
+                  0.01                   0.00                   0.00 
+     __Mamiellophyceae          __Maxillopoda          __ME-Euk-FW10 
+                  0.02                   0.01                   0.00 
+        __Mesodiniidae         __Ministeriida          __Monogononta 
+                  0.00                   0.00                   0.00 
+           __Noctiluca        __Novel_Clade_3                __NW617 
+                  0.00                   0.00                   0.01 
+      __Ochromonadales    __Oligohymenophorea         __Oligotrichia 
+                  0.01                   0.01                   0.03 
+              __p15D09               __P34.48     __Peridiniphycidae 
+                  0.00                   0.01                   0.02 
+            __Phoronis      __Phyllopharyngea            __Picomonas 
+                  0.00                   0.01                   0.00 
+        __Plagioselmis           __Polychaeta        __Prasinophytae 
+                  0.00                   0.01                   0.01 
+      __Prorocentrales          __Prostomatea           __Rhodomonas 
+                  0.00                   0.03                   0.00 
+     __Saccharomycetes       __Salpingoecidae        __Silicofilosea 
+                  0.00                   0.00                   0.00 
+     __Sordariomycetes              __Stentor       __Stephanoecidae 
+                  0.00                   0.00                   0.01 
+ __Syndiniales_Group_I __Syndiniales_Group_II            __Synurales 
+                  0.00                   0.01                   0.01 
+           __Teleaulax            __TKR07M.92     __Trebouxiophyceae 
+                  0.02                   0.00                   0.01 
+         __Typhlocoela          __Ulvophyceae           __uncultured 
+                  0.00                   0.00                   0.14 
+         __WHOI-LI1-14             __Woronina 
+                  0.00                   0.00 
+[1] "18 Class merged"
+Joining, by = "Class"
+Joining, by = "Class"
+                  Class Fresh Marine Brackish
+1     __Acanthocystidae  0.00     NA       NA
+2         __Apicomplexa  0.01     NA       NA
+3             __BOLA914  0.00     NA     0.00
+4            __Cercozoa  0.08   0.09     0.07
+5      __Chloroplastida  0.08   0.09     0.07
+6    __Choanoflagellida  0.04   0.00     0.02
+7          __Ciliophora  0.17   0.06     0.12
+8     __Cryptomonadales  0.06   0.05     0.06
+9         __DH147-EKD10  0.00     NA       NA
+10     __Dinoflagellata  0.13   0.17     0.08
+11              __Fungi  0.06   0.00     0.07
+12              __H15-6  0.00     NA       NA
+13     __Incertae_Sedis  0.00   0.00     0.01
+14   __Kathablepharidae  0.01     NA     0.02
+15             __MAST-2  0.00   0.00     0.00
+16             __MAST-3  0.00     NA     0.00
+17            __Metazoa  0.08   0.11     0.09
+18         __Ochrophyta  0.18   0.07     0.25
+19              __P1-31  0.02     NA     0.01
+20 __Peronosporomycetes  0.00     NA     0.00
+21      __Protalveolata  0.07   0.08     0.10
+22         __uncultured  0.00   0.02     0.00
+23      __Ichthyosporea    NA   0.01       NA
+24             __MAST-1    NA   0.01     0.00
+25               __Pav3    NA   0.00       NA
+26       __Picomonadida    NA   0.04     0.00
+27   __Prymnesiophyceae    NA   0.16     0.01
+28       __Rhodophyceae    NA   0.00       NA
+29         __Filasterea    NA     NA     0.00
+30           __Jakobida    NA     NA     0.00
+31             __MAST-6    NA     NA     0.00
+32           __OLI11255    NA     NA     0.00
+[1] "Number of classifications that are EXACT same"
+[1] 39
+[1] "total shared"
+[1] 129
+[1] "Number of classifications that are EXACT samem noclass ommitted"
+[1] 36
+[1] "total shared"
+[1] 108
+[1] 0.287037
+[1] "Number of classifications that same broad type"
+[1] 62
+[1] "total shared"
+[1] 129
+[1] 0.4728682
+[1] "Number of classifications that same broad type; noclass ommitted"
+[1] 59
+[1] "total shared"
+[1] 108
+[1] 0.537037

@@ -1,0 +1,14 @@
+Start:  AIC=-1174.09
+PD ~ compare
+
+          Df Sum of Sq    RSS     AIC
+<none>                 4.1675 -1174.1
+- compare  1   0.21411 4.3816 -1162.1
+
+Call:
+lm(formula = PD ~ compare, data = temp.onlybrack_lower)
+
+Coefficients:
+      (Intercept)  compareUpperBrack  
+          0.11262            0.05531  
+

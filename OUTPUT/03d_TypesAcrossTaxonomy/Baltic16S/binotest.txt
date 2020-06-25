@@ -1,0 +1,12 @@
+
+	Exact binomial test
+
+data:  ratioFreshMar[1] and sum(ratioFreshMar)
+number of successes = 63, number of trials = 146, p-value = 0.1155
+alternative hypothesis: true probability of success is not equal to 0.5
+95 percent confidence interval:
+ 0.3498841 0.5159663
+sample estimates:
+probability of success 
+             0.4315068 
+

@@ -1,0 +1,12 @@
+
+	Paired t-test
+
+data:  brackishOTUPD$freshRestricted[-remove_temp_brack] and brackishOTUPD$marineRestricted[-remove_temp_brack]
+t = -2.7547, df = 614, p-value = 0.006049
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.033125779 -0.005552204
+sample estimates:
+mean of the differences 
+            -0.01933899 
+

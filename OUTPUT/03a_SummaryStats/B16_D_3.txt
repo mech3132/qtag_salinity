@@ -1,0 +1,81 @@
+Taxa	Fresh	Brackish	Marine	total
+D_2__Alphaproteobacteria	0.111111111111111	0.6	0.288888888888889	1223
+D_2__Gammaproteobacteria	0.0930232558139535	0.604651162790698	0.302325581395349	1332
+D_2__Thermoplasmata	NA	NA	NA	29
+D_2__Bacteroidia	0.161290322580645	0.725806451612903	0.112903225806452	821
+D_2__Oxyphotobacteria	0.2	0.8	NA	149
+D_2__Verrucomicrobiae	0.333333333333333	0.666666666666667	NA	166
+D_2__Acidimicrobiia	0.416666666666667	0.416666666666667	0.166666666666667	152
+D_2__Deltaproteobacteria	NA	1	NA	165
+D_2__Actinobacteria	0.409090909090909	0.545454545454545	0.0454545454545455	253
+D_2__uncultured marine bacterium	NA	1	NA	11
+D_2__uncultured bacterium	NA	1	NA	23
+D_2__Nitrososphaeria	NA	NA	NA	21
+D_2__Nitrospinia	NA	NA	NA	30
+D_2__Acidobacteriia	NA	NA	NA	3
+D_2__Planctomycetacia	0.25	0.5	0.25	107
+D_2__OM190	NA	1	NA	19
+D_2__Pla3 lineage	NA	NA	NA	2
+D_2__Campylobacteria	NA	1	NA	65
+D_2__Thermoanaerobaculia	NA	NA	NA	6
+D_2__Bacilli	NA	NA	NA	13
+D_2__Saccharimonadia	NA	NA	NA	7
+D_2__Nitrospira	NA	NA	NA	4
+D_2__Oligosphaeria	NA	NA	NA	4
+D_2__Latescibacteria	NA	NA	NA	1
+D_2__Clostridia	NA	NA	NA	17
+D_2__Phycisphaerae	1	NA	NA	29
+D_2__Anaerolineae	NA	NA	NA	15
+D_2__Spirochaetia	NA	NA	NA	5
+D_2__Microgenomatia	NA	NA	NA	2
+D_2__Dehalococcoidia	NA	1	NA	16
+D_2__uncultured bacterium MB13C05	NA	NA	NA	1
+D_2__Gracilibacteria	NA	NA	NA	11
+D_2__Thermoleophilia	NA	NA	NA	12
+D_2__Longimicrobia	NA	NA	NA	1
+D_2__Hydrogenedentia	NA	NA	NA	5
+D_2__Gemmatimonadetes	NA	NA	NA	6
+D_2__Lentisphaeria	NA	NA	NA	4
+D_2__Kiritimatiellae	NA	NA	NA	3
+D_2__Subgroup 6	NA	NA	NA	18
+D_2__uncultured Candidatus Marinimicrobia bacterium	NA	NA	NA	1
+D_2__Melainabacteria	NA	NA	NA	5
+D_2__Babeliae	NA	NA	NA	3
+D_2__Fibrobacteria	NA	NA	NA	1
+D_2__Parcubacteria	NA	NA	NA	9
+D_2__Ignavibacteria	NA	NA	NA	9
+D_2__Thermodesulfovibrionia	NA	NA	NA	2
+D_2__Rhodothermia	NA	1	NA	11
+D_2__JG30-KF-CM66	NA	NA	NA	9
+D_2__PAUC43f marine benthic group	NA	NA	NA	1
+D_2__ABY1	NA	NA	NA	17
+D_2__Fusobacteriia	NA	NA	NA	3
+D_2__hydrothermal vent metagenome	NA	NA	NA	1
+D_2__KD4-96	NA	NA	NA	4
+D_2__Mollicutes	NA	NA	NA	4
+D_2__Dadabacteriia	NA	NA	NA	3
+D_2__Subgroup 17	NA	NA	NA	4
+D_2__Woesearchaeia	NA	NA	NA	2
+D_2__Holophagae	NA	NA	NA	3
+D_2__Zetaproteobacteria	NA	NA	NA	2
+D_2__Subgroup 21	NA	NA	NA	3
+D_2__SL56 marine group	1	NA	NA	6
+D_2__BD2-11 terrestrial group	NA	NA	NA	3
+D_2__marine metagenome	NA	1	NA	5
+D_2__Subgroup 26	NA	NA	NA	1
+D_2__BD7-11	NA	NA	NA	1
+D_2__Subgroup 22	NA	NA	NA	5
+D_2__Subgroup 9	NA	NA	NA	1
+D_2__Nitriliruptoria	NA	NA	NA	2
+D_2__Chloroflexia	NA	NA	NA	2
+D_2__uncultured Acidobacterium sp.	NA	NA	NA	1
+D_2__Leptospirae	NA	NA	NA	1
+D_2__Negativicutes	NA	NA	NA	1
+D_2__uncultured eubacterium OCS307	NA	NA	NA	1
+D_2__Marinimicrobia bacterium JGI 0000113-D11	NA	NA	NA	1
+D_2__Cloacimonadia	NA	NA	NA	1
+D_2__Calditrichia	NA	NA	NA	1
+D_2__Omnitrophia	NA	NA	NA	2
+D_2__uncultured gamma proteobacterium	NA	NA	NA	1
+D_2__Armatimonadia	NA	NA	NA	1
+D_2__LD1-PA32	NA	NA	NA	1

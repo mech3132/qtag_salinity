@@ -1,0 +1,7 @@
+
+	Wilcoxon signed rank test with continuity correction
+
+data:  brackishUpperPD$brackishUpper and brackishUpperPD$brackishLower
+V = 2308, p-value = 7.658e-08
+alternative hypothesis: true location shift is not equal to 0
+

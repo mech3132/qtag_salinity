@@ -1,0 +1,6 @@
+
+	Shapiro-Wilk normality test
+
+data:  brackishOTUPD$freshRestricted[-remove_temp_brack] - brackishOTUPD$marineRestricted[-remove_temp_brack]
+W = 0.96495, p-value = 5.993e-11
+

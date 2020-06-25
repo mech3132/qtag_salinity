@@ -1,0 +1,6 @@
+
+	Shapiro-Wilk normality test
+
+data:  marineOTUPD$freshRestricted[-remove_temp_marine] - marineOTUPD$marineRestricted[-remove_temp_marine]
+W = 0.9521, p-value = 0.1128
+

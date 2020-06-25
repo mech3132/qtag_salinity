@@ -1,0 +1,7 @@
+
+	Wilcoxon signed rank test with continuity correction
+
+data:  brackishUpperPD$brackishLower and brackishUpperPD$marine.taxa
+V = 3597, p-value = 0.0077
+alternative hypothesis: true location shift is not equal to 0
+

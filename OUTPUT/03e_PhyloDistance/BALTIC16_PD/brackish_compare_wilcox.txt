@@ -1,0 +1,7 @@
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  brackishOTUPD$freshRestricted[-remove_temp_brack] and brackishOTUPD$marineRestricted[-remove_temp_brack]
+W = 11703, p-value = 0.2179
+alternative hypothesis: true location shift is not equal to 0
+

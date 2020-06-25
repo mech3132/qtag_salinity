@@ -1,0 +1,23 @@
+01_16sBaltic
+Settings: 
+minX =0
+maxY =36
+XYdiff =2.0
+DivSize =2.0
+unitSize = 1.0
+threshold type: Proportion
+threshold: 0.1
+Full PWD: 
+taxasummaries = ./INPUT_DATA/Baltic_16S/OTU_Table_final.txt
+metadata = ./INPUT_DATA/Baltic_16S/metadata_table.tsv
+Low: fresh
+Inter: brackish
+High: marine
+Gradient Header: SalinityEnviron
+Ubiquitous taxa overlap threshold: 0.1
+Proportion overlap needed between groups to be ubiquitous: 0.3
+Filtering; number of OTUs in sample to not be re-set to zero: 5
+Filtering; number of reads of an OTU per sample for that OTU to be kept: 50
+Minimum number of samples in bin: 3
+Critical p-value to compare means of two bins: 0.025
+Critical p-value to compare variances when assigning bloom types: 0.05
