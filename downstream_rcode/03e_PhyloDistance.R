@@ -81,9 +81,9 @@ for ( d in dataset) {
     mb <- mb[which(!is.na(mb$taxa)),]
     # Prune tree so there are only things in the table.
     tree.pruned <- prune.sample(t(otu.filt), tree16)
-    
+
     # Find pairwise distances between all
-    taxa.dist <- cophenetic(tree.pruned)
+    taxa.dist <- cophenetic.phylo(tree.pruned)
     
     # # First, adjust taxa.dist so that diagonal is NA and only includes things in mb
     # taxa.dist.2 <- taxa.dist
